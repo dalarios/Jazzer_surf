@@ -2,9 +2,14 @@ import pymol2
 import csv
 import os
 
+
+user = "jazzeruncal"
+base_path =f'/Users/{user}/git/Jazzer_surf/data/interactions'
+variable_part = "blesto"
+
 def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=7.0, output_csv=None):
     if output_csv is None:
-        output_csv = "/Users/dalarios/git/Jazzer_surf/data/interactions.csv"
+        output_csv = f"{base_path}{variable_part}.csv"
     
     with pymol2.PyMOL() as pymol:
         pymol.cmd.load(protein_file)
@@ -40,5 +45,8 @@ def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=7.0,
         print(f"Interactions have been saved to {output_csv}")
 
 # Example usage
-protein_file = "/Users/dalarios/git/Jazzer_surf/3d_predictions/fold_2c_motor_only_atp_model_0.pdb"
+
+base_prot_path =f"/Users/{user}/git/Jazzer_surf/3d_predictions/WT+ATPspeciesmotors/"
+wanted_protein ="fold_blesto.cif"
+protein_file = f"{base_prot_path}{wanted_protein}"
 analyze_atp_binding(protein_file)
