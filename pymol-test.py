@@ -5,7 +5,7 @@ import os
 
 user = "jazzeruncal"
 base_path =f'/Users/{user}/git/Jazzer_surf/data/interactions'
-variable_part = "blesto"
+variable_part = "tila"
 
 def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=7.0, output_csv=None):
     if output_csv is None:
@@ -47,6 +47,6 @@ def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=7.0,
 # Example usage
 
 base_prot_path =f"/Users/{user}/git/Jazzer_surf/3d_predictions/WT+ATPspeciesmotors/"
-wanted_protein ="fold_blesto.cif"
+wanted_protein ="fold_tila.cif"
 protein_file = f"{base_prot_path}{wanted_protein}"
 analyze_atp_binding(protein_file)
