@@ -5,9 +5,9 @@ import os
 
 user = "jazzeruncal"
 base_path =f'/Users/{user}/git/Jazzer_surf/data/interactions'
-variable_part = "tila"
+variable_part = "G"
 
-def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=7.0, output_csv=None):
+def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=5.0, output_csv=None):
     if output_csv is None:
         output_csv = f"{base_path}{variable_part}.csv"
     
@@ -46,7 +46,10 @@ def analyze_atp_binding(protein_file, ligand_name="ATP", distance_threshold=7.0,
 
 # Example usage
 
-base_prot_path =f"/Users/{user}/git/Jazzer_surf/3d_predictions/WT+ATPspeciesmotors/"
-wanted_protein ="fold_tila.cif"
+base_prot_path =f"/Users/{user}/git/Jazzer_surf/3d_predictions/"
+wanted_protein ="fold_g_motor_only_atp_model_0.cif"
 protein_file = f"{base_prot_path}{wanted_protein}"
-analyze_atp_binding(protein_file)
+
+analyse_atp_binding(protein_file)
+
+
