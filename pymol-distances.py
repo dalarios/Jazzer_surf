@@ -3,6 +3,9 @@ import csv
 import os
 import glob
 import pandas as pd
+import numpy as np
+import cupy as cp
+from concurrent.futures import ThreadPoolExecutor
 
 # Function to convert three-letter amino acid code to single-letter code
 def three_to_one(three_letter_code):
@@ -51,33 +54,40 @@ def analyze_interchain_interactions(protein_file, distance_threshold=10):
         
         all_atoms = pymol.cmd.get_model("all_atoms").atom
 
+        atom_coords = np.array([[atom.coord[0], atom.coord[1], atom.coord[2]] for atom in all_atoms])
+        atom_coords_gpu = cp.array(atom_coords)
         interactions = []
 
         for i, atom1 in enumerate(all_atoms):
-            atom1_selection = f"chain {atom1.chain} and resi {atom1.resi} and name {atom1.name}"
-            for atom2 in all_atoms[i+1:]:
-                if atom1.chain != atom2.chain:
-                    atom2_selection = f"chain {atom2.chain} and resi {atom2.resi} and name {atom2.name}"
-                    try:
-                        distance = pymol.cmd.get_distance(atom1_selection, atom2_selection)
-                        if distance <= distance_threshold:
+            if i % 100 == 0:  # Reduce output frequency
+                print(f"Processing atom {i}/{len(all_atoms)}")
+            if atom1.chain != '':  # Ensure valid chain identifier
+                distances = cp.linalg.norm(atom_coords_gpu - atom_coords_gpu[i], axis=1)
+                indices = cp.where((distances > 0) & (distances <= distance_threshold))[0]
+
+                for j in indices.get():
+                    if j < len(all_atoms):
+                        atom2 = all_atoms[j]
+                        if atom1.chain != atom2.chain:
+                            distance = distances[j].get()
                             interactions.append((atom1.chain, atom1.resn, atom1.resi, atom1.name,
                                                  atom2.chain, atom2.resn, atom2.resi, atom2.name, distance))
-                    except pymol.CmdException as e:
-                        print(f"Error measuring distance between {atom1_selection} and {atom2_selection}: {e}")
-
         return interactions
 
 def process_files_in_folder(folder_path, distance_threshold, output_csv=None):
     all_interactions = []
 
-    for filename in glob.glob(os.path.join(folder_path, "*.pdb")) + glob.glob(os.path.join(folder_path, "*.cif")):
-        protein_file = filename
-        print(f"Processing file: {protein_file}")
-        interactions = analyze_interchain_interactions(protein_file, distance_threshold=distance_threshold)
-        for interaction in interactions:
-            file_base_name = os.path.splitext(os.path.basename(filename))[0]
-            all_interactions.append([file_base_name] + list(interaction))
+    def process_file(filename):
+        print(f"Processing file: {filename}")
+        interactions = analyze_interchain_interactions(filename, distance_threshold=distance_threshold)
+        return [(os.path.splitext(os.path.basename(filename))[0],) + interaction for interaction in interactions]
+
+    # Use ThreadPoolExecutor for parallel processing
+    with ThreadPoolExecutor() as executor:
+        results = executor.map(process_file, glob.glob(os.path.join(folder_path, "*.pdb")) + glob.glob(os.path.join(folder_path, "*.cif")))
+
+    for result in results:
+        all_interactions.extend(result)
 
     # Create a DataFrame from the interactions
     df = pd.DataFrame(all_interactions, columns=["Protein File", "Chain 1", "Residue Name 1", "Residue ID 1", "Atom Name 1", "Chain 2", "Residue Name 2", "Residue ID 2", "Atom Name 2", "Distance (Å)"])
@@ -92,12 +102,16 @@ def process_files_in_folder(folder_path, distance_threshold, output_csv=None):
         output_csv = os.path.join(folder_path, "interactions_all_chains.csv")
 
     # Save the DataFrame to a CSV file
-    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
+    output_dir = os.path.dirname(output_csv)
+    if output_dir and not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+        
     df.to_csv(output_csv, index=False)
 
     print(f"DataFrame has been saved to {output_csv}")
     return df
 
 # Example usage
-folder_path = "/Users/dalarios/git/Jazzer_surf/3d_predictions/chimeras/test"
-df = process_files_in_folder(folder_path, distance_threshold=1.0)
+folder_path = r"C:\Users\Admin\git\Jazzer_surf\3d_predictions\chimeras\test"  # Ensure this path is correct
+output_csv = r"C:\Users\Admin\git\Jazzer_surf\3d_predictions\chimeras\interactions_all_chains.csv"  # Use a directory where you have write permissions
+df = process_files_in_folder(folder_path, distance_threshold=5.0, output_csv=output_csv)
