@@ -1,5 +1,7 @@
 from pymol import cmd, stored
 import pandas as pd
+import os
+import glob
 
 # Dictionaries for single-letter amino acid codes and full atom names
 aa_dict = {
@@ -36,61 +38,99 @@ atom_dict = {
     "O3'": "Oxygen 3 prime", "O4'": "Oxygen 4 prime", "O5'": "Oxygen 5 prime"
 }
 
+
+
+# Assumes the dictionaries aa_dict and atom_dict are defined elsewhere in the code
+
 def three_to_one(three_letter_code):
     return aa_dict.get(three_letter_code.strip().upper(), '?')
 
 def get_full_atom_name(atom_symbol):
     return atom_dict.get(atom_symbol.strip().upper(), 'Unknown')
 
-def log_interactions():
-    # Select interacting atoms in chain A or B within 5 Å of any atom in chain C or D or ATP
-    cmd.select("interacting_atoms", "(chain A within 5 of chain C) or (chain A within 5 of chain D) or (chain B within 5 of chain C) or (chain B within 5 of chain D) or (chain A within 5 of resn ATP) or (chain B within 5 of resn ATP) or (chain A within 5 of chain B)")
-    
-    interactions = []
+def log_interactions(file_path, threshold=5.0):
+    cmd.load(file_path)
+    interactions = set()  # Use a set to avoid duplicates
 
+    # Select interacting atoms, including magnesium interactions
+    cmd.select("interacting_atoms", f"(chain A within {threshold} of chain C) or (chain A within {threshold} of chain D) or (chain B within {threshold} of chain C) or (chain B within {threshold} of chain D) or (chain A within {threshold} of resn ATP) or (chain B within {threshold} of resn ATP) or (chain A within {threshold} of resn ADP) or (chain B within {threshold} of resn ADP) or (chain A within {threshold} of chain B) or (resn ATP within {threshold} of resn MG) or (resn ADP within {threshold} of resn MG) or (elem MG within {threshold} of all)")
+    
     # Iterate over selected atoms and log interactions
     stored.list = []
     cmd.iterate("interacting_atoms", "stored.list.append((chain, resi, resn, name, index))")
 
     for chain, resi, resn, name, index in stored.list:
-        # Interactions with chains C and D
-        cmd.select("interaction_near", f"(chain C within 5 of index {index}) or (chain D within 5 of index {index})")
+        # Log Magnesium interactions
+        cmd.select("mg_near", f"elem MG within {threshold} of index {index}")
+        stored.mg_list = []
+        cmd.iterate("mg_near", "stored.mg_list.append((chain, resi, resn, name, index))")
+        for mg_chain, mg_resi, mg_resn, mg_name, mg_index in stored.mg_list:
+            distance = cmd.get_distance(f"index {index}", f"index {mg_index}")
+            if distance <= threshold:  # Only log interactions within threshold
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, mg_name, mg_resn, mg_chain, distance))
+
+        # Interaction with chains C and D
+        cmd.select("interaction_near", f"(chain C within {threshold} of index {index}) or (chain D within {threshold} of index {index})")
         stored.interaction_list = []
         cmd.iterate("interaction_near", "stored.interaction_list.append((chain, resi, resn, name, index))")
         for inter_chain, inter_resi, inter_resn, inter_name, inter_index in stored.interaction_list:
             distance = cmd.get_distance(f"index {index}", f"index {inter_index}")
-            if distance <= 5.0:  # Only log interactions within 5 Å or less
-                interactions.append((chain, resi, resn, name, inter_name, inter_resn, inter_chain, distance))
+            if distance <= threshold:  # Only log interactions within threshold
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, inter_name, inter_resn, inter_chain, distance))
         
-        # Interactions with ATP
-        cmd.select("atp_near", f"(resn ATP within 5 of index {index})")
+        # Interaction with ATP
+        cmd.select("atp_near", f"(resn ATP within {threshold} of index {index})")
         stored.atp_list = []
         cmd.iterate("atp_near", "stored.atp_list.append((chain, resi, resn, name, index))")
         for atp_chain, atp_resi, atp_resn, atp_name, atp_index in stored.atp_list:
             distance = cmd.get_distance(f"index {index}", f"index {atp_index}")
-            if distance <= 5.0:  # Only log interactions within 5 Å or less
-                interactions.append((chain, resi, resn, name, atp_name, atp_resn, atp_chain, distance))
+            if distance <= threshold:  # Only log interactions within threshold
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, atp_name, atp_resn, atp_chain, distance))
 
-        # Interactions between chain A and chain B
-        cmd.select("ab_near", f"(chain B within 5 of index {index})" if chain == 'A' else f"(chain A within 5 of index {index})")
+        # Interaction with ADP
+        cmd.select("adp_near", f"(resn ADP within {threshold} of index {index})")
+        stored.adp_list = []
+        cmd.iterate("adp_near", "stored.adp_list.append((chain, resi, resn, name, index))")
+        for adp_chain, adp_resi, adp_resn, adp_name, adp_index in stored.adp_list:
+            distance = cmd.get_distance(f"index {index}", f"index {adp_index}")
+            if distance <= threshold:  # Only log interactions within threshold
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, adp_name, adp_resn, adp_chain, distance))
+
+        # Interaction between chain A and chain B
+        cmd.select("ab_near", f"(chain B within {threshold} of index {index})" if chain == 'A' else f"(chain A within {threshold} of index {index})")
         stored.ab_list = []
         cmd.iterate("ab_near", "stored.ab_list.append((chain, resi, resn, name, index))")
         for ab_chain, ab_resi, ab_resn, ab_name, ab_index in stored.ab_list:
             distance = cmd.get_distance(f"index {index}", f"index {ab_index}")
-            if distance <= 5.0:  # Only log interactions within 5 Å or less
-                interactions.append((chain, resi, resn, name, ab_name, ab_resn, ab_chain, distance))
+            if distance <= threshold:  # Only log interactions within threshold
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, ab_name, ab_resn, ab_chain, distance))
+
+    cmd.delete("all")  # Clear all selections to prepare for the next file
+    return list(interactions)  # Convert set to list
+
+def process_folder(folder_path, threshold=5.0):
+    all_interactions = []
+    files = glob.glob(os.path.join(folder_path, "*.pdb")) + glob.glob(os.path.join(folder_path, "*.cif"))
+    
+    for file_path in files:
+        all_interactions.extend(log_interactions(file_path, threshold))
 
     # Create a DataFrame from the interactions
-    df = pd.DataFrame(interactions, columns=["chain", "resi", "resn", "atom_name", "interacting_atom", "interacting_resn", "interacting_chain", "distance (angstroms)"])
+    df = pd.DataFrame(all_interactions, columns=["file", "chain", "resi", "resn", "atom_name", "interacting_atom", "interacting_resn", "interacting_chain", "distance (angstroms)"])
 
     # Add columns for amino acid single-letter code and complete atom names
     df['residue_one_letter'] = df['resn'].apply(three_to_one)
     df['full_atom_name'] = df['atom_name'].apply(get_full_atom_name)
     df['interacting_full_atom_name'] = df['interacting_atom'].apply(get_full_atom_name)
 
-    # Save the DataFrame to a CSV file
-    df.to_csv("interactions.csv", index=False)
-    print(f"DataFrame has been saved to interactions.csv")
+    # Keep only the closest interaction for each residue pair
+    df = df.loc[df.groupby(['file', 'chain', 'resi', 'resn', 'interacting_chain', 'interacting_resn'])['distance (angstroms)'].idxmin()]
 
-# Run the logging function
-log_interactions()
+    # Save the DataFrame to a CSV file
+    df.to_csv(os.path.join(folder_path, "interactions_all_files.csv"), index=False)
+    print(f"DataFrame has been saved to interactions_all_files.csv")
+
+folder_path = "../Jazzer_surf/3d_predictions/chimeras/test/"
+
+# Run the function for a folder with a threshold
+process_folder(folder_path, threshold=5.0)  # Replace with the path to your folder containing PDB or CIF files
