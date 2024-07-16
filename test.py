@@ -39,7 +39,7 @@ atom_dict = {
 }
 
 
-
+ 
 # Assumes the dictionaries aa_dict and atom_dict are defined elsewhere in the code
 
 def three_to_one(three_letter_code):
@@ -124,7 +124,7 @@ def process_folder(folder_path, threshold=5.0):
     df['interacting_full_atom_name'] = df['interacting_atom'].apply(get_full_atom_name)
 
     # Keep only the closest interaction for each residue pair
-    df = df.loc[df.groupby(['file', 'chain', 'resi', 'resn', 'interacting_chain', 'interacting_resn'])['distance (angstroms)'].idxmin()]
+    # df = df.loc[df.groupby(['file', 'chain', 'resi', 'resn', 'interacting_chain', 'interacting_resn'])['distance (angstroms)'].idxmin()]
 
     # Save the DataFrame to a CSV file
     df.to_csv(os.path.join(folder_path, "interactions_all_files.csv"), index=False)
