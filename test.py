@@ -133,4 +133,4 @@ def process_folder(folder_path, threshold=5.0):
 folder_path = "../Jazzer_surf/3d_predictions/chimeras/test/"
 
 # Run the function for a folder with a threshold
-process_folder(folder_path, threshold=5.0)  # Replace with the path to your folder containing PDB or CIF files
+process_folder(folder_path, threshold=4.0)  # Replace with the path to your folder containing PDB or CIF files
