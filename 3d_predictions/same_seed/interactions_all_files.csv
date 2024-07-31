@@ -1,0 +1,869 @@
+file,chain,resi,resn,atom_name,interacting_atom,interacting_resn,interacting_chain,distance (angstroms),residue_one_letter,full_atom_name,interacting_full_atom_name
+fold_k401_atp_tub_333_model_0,B,99,THR,N,O2B,ADP,F,3.092935562133789,T,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,B,20,ARG,CB,C5,ADP,F,3.446227550506592,R,Carbon beta,Carbon 5
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,PA,ADP,F,2.8757646083831787,?,Phosphorus beta,Phosphorus alpha
+fold_k401_atp_tub_333_model_0,A,377,ARG,CZ,OE1,GLU,B,3.327723741531372,R,Carbon zeta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,O1B,ATP,E,2.1643989086151123,?,Magnesium,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O1A,ATP,E,3.2885046005249023,?,Oxygen 1 beta,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,O2A,ADP,F,3.199721336364746,?,Oxygen 2 beta,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,97,GLY,N,O2B,ATP,E,2.91800856590271,G,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,94,THR,OG1,O1G,ATP,E,2.4589946269989014,T,Oxygen gamma 1,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,A,159,ASN,ND2,OE1,GLU,D,2.7908055782318115,N,Nitrogen delta 2,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,166,LYS,NZ,OE2,GLU,B,3.2736032009124756,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,100,HIS,N,O2A,ATP,E,3.0084950923919678,H,Nitrogen,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,282,HIS,O,OE1,GLN,D,2.674067497253418,H,Oxygen,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,355,GLU,CD,ND2,ASN,B,3.3089170455932617,E,Carbon delta,Nitrogen delta 2
+fold_k401_atp_tub_333_model_0,A,359,ASN,N,OD1,ASN,B,3.3212389945983887,N,Nitrogen,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,O1A,ADP,F,3.447399377822876,?,Phosphorus beta,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O3B,ATP,E,2.523198366165161,?,Oxygen 1 beta,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,O2G,ATP,E,2.4991073608398438,?,Oxygen 3 gamma,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,B,20,ARG,CB,N7,ADP,F,3.1430580615997314,R,Carbon beta,Nitrogen 7
+fold_k401_atp_tub_333_model_0,L,1,MG,MG,O2B,ADP,F,2.3596479892730713,?,Magnesium,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O3G,ATP,E,2.492922782897949,?,Oxygen 3 beta,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,PB,ADP,F,1.4713279008865356,?,Oxygen 2 beta,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,287,ASP,OD1,CD,ARG,D,3.1773908138275146,D,Oxygen delta 1,Carbon delta
+fold_k401_atp_tub_333_model_0,A,165,ASP,C,CE,MET,D,3.115731954574585,D,Carbon,Carbon epsilon
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,CB,SER,A,3.330125331878662,?,Oxygen 3 gamma,Carbon beta
+fold_k401_atp_tub_333_model_0,A,98,LYS,NZ,O2B,ATP,E,3.053535223007202,K,Nitrogen zeta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,286,ARG,NE,OD1,ASN,D,3.2957565784454346,R,Nitrogen epsilon,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,A,163,HIS,CA,OE1,GLU,D,3.1208677291870117,H,Carbon alpha,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,O1G,ATP,E,1.5014592409133911,?,Phosphorus gamma,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O2G,ATP,E,2.4854860305786133,?,Oxygen 3 beta,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,B,21,PRO,CD,C6,ADP,F,3.107449531555176,P,Carbon delta,Carbon 6
+fold_k401_atp_tub_333_model_0,A,259,LYS,CE,CG2,THR,C,3.338261604309082,K,Carbon epsilon,Carbon gamma 2
+fold_k401_atp_tub_333_model_0,A,95,SER,C,O3A,ATP,E,3.3586552143096924,S,Carbon,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,MG,MG,I,3.483076572418213,?,Oxygen 3 beta,Magnesium
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH2,OE2,GLU,B,2.7509443759918213,R,Nitrogen eta 2,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,359,ASN,OD1,OD1,ASN,B,2.726900815963745,N,Oxygen delta 1,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,B,96,SER,N,O1B,ADP,F,2.889603614807129,S,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,165,ASP,CA,CE,MET,D,3.443251371383667,D,Carbon alpha,Carbon epsilon
+fold_k401_atp_tub_333_model_0,A,372,GLU,OE2,NH2,ARG,B,2.8381969928741455,E,Oxygen epsilon 2,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,B,205,ASN,ND2,O3B,ADP,F,3.143019914627075,N,Nitrogen delta 2,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,365,LYS,NZ,OE1,GLU,B,3.3695459365844727,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,373,LEU,CD2,CD,GLU,B,3.2896721363067627,L,Carbon delta 2,Carbon delta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O1B,ATP,E,0.0,?,Oxygen 1 beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,F,1,ADP,O3B,MG,MG,L,3.3438289165496826,?,Oxygen 3 beta,Magnesium
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,O3A,ADP,F,2.4595882892608643,?,Oxygen 2 beta,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,209,SER,CB,MG,MG,I,3.2561676502227783,S,Carbon beta,Magnesium
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,N,SER,A,2.6812875270843506,?,Oxygen 3 beta,Nitrogen
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,O2B,ADP,F,1.4713279008865356,?,Phosphorus beta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,CB,THR,A,3.229459047317505,?,Magnesium,Carbon beta
+fold_k401_atp_tub_333_model_0,A,166,LYS,NZ,CD,GLU,B,3.463228702545166,K,Nitrogen zeta,Carbon delta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,PG,ATP,E,2.8770556449890137,?,Phosphorus beta,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,A,282,HIS,CE1,O,ASP,D,3.4395480155944824,H,Carbon epsilon 1,Oxygen
+fold_k401_atp_tub_333_model_0,A,359,ASN,ND2,OE2,GLU,B,2.1528127193450928,N,Nitrogen delta 2,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,B,96,SER,OG,O1B,ADP,F,3.137603759765625,S,Oxygen gamma,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,PG,ATP,E,1.6067571640014648,?,Oxygen 3 beta,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,J,1,MG,MG,MG,MG,J,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH1,CE,MET,B,3.4872195720672607,R,Nitrogen eta 1,Carbon epsilon
+fold_k401_atp_tub_333_model_0,A,99,THR,OG1,O1B,ATP,E,2.929311990737915,T,Oxygen gamma 1,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,164,GLU,OE1,OG,SER,D,3.2599518299102783,E,Oxygen epsilon 1,Oxygen gamma
+fold_k401_atp_tub_333_model_0,A,164,GLU,N,OE1,GLU,D,3.4783287048339844,E,Nitrogen,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,MG,MG,I,1.8871855735778809,?,Oxygen 3 gamma,Magnesium
+fold_k401_atp_tub_333_model_0,F,1,ADP,O3B,O3A,ADP,F,2.453202486038208,?,Oxygen 3 beta,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,251,GLU,CG,NZ,LYS,C,3.0843446254730225,E,Carbon gamma,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,A,244,LYS,NZ,OE2,GLU,C,2.4500958919525146,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,95,SER,CA,O3A,ATP,E,3.2520391941070557,S,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,286,ARG,CD,NH1,ARG,D,3.453503370285034,R,Carbon delta,Nitrogen eta 1
+fold_k401_atp_tub_333_model_0,A,346,GLU,CD,NZ,LYS,B,3.4999756813049316,E,Carbon delta,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,A,387,GLN,OE1,CD,ARG,B,3.351947069168091,Q,Oxygen epsilon 1,Carbon delta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O3A,ATP,E,2.49123477935791,?,Oxygen 3 beta,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,20,ARG,CB,N7,ATP,E,3.418571949005127,R,Carbon beta,Nitrogen 7
+fold_k401_atp_tub_333_model_0,A,286,ARG,CB,NH1,ARG,D,3.296154737472534,R,Carbon beta,Nitrogen eta 1
+fold_k401_atp_tub_333_model_0,A,355,GLU,OE2,CG,ASN,B,3.2554051876068115,E,Oxygen epsilon 2,Carbon gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,MG,MG,I,3.1830251216888428,?,Phosphorus gamma,Magnesium
+fold_k401_atp_tub_333_model_0,B,95,SER,C,O3A,ADP,F,3.151066303253174,S,Carbon,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,251,GLU,CD,NZ,LYS,C,3.4794769287109375,E,Carbon delta,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,A,286,ARG,NH2,OD2,ASP,D,3.040119171142578,R,Nitrogen eta 2,Oxygen delta 2
+fold_k401_atp_tub_333_model_0,B,95,SER,N,O3B,ADP,F,2.427954912185669,S,Nitrogen,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,F,1,ADP,O3B,PB,ADP,F,1.472666621208191,?,Oxygen 3 beta,Phosphorus beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,MG,MG,I,2.1643989086151123,?,Oxygen 1 beta,Magnesium
+fold_k401_atp_tub_333_model_0,B,98,LYS,N,PB,ADP,F,3.454066753387451,K,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,242,SER,OG,OE1,GLU,C,3.076216220855713,S,Oxygen gamma,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,K,1,MG,MG,OE1,GLN,D,3.1787755489349365,?,Magnesium,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,MG,MG,L,3.3608336448669434,?,Phosphorus beta,Magnesium
+fold_k401_atp_tub_333_model_0,B,97,GLY,CA,O1A,ADP,F,3.01090931892395,G,Carbon alpha,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,A,96,SER,N,O2B,ATP,E,3.1592752933502197,S,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,205,ASN,ND2,O3B,ATP,E,2.9855401515960693,N,Nitrogen delta 2,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,PB,ATP,E,3.204216718673706,?,Oxygen 3 gamma,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,250,ALA,O,NZ,LYS,C,3.3081231117248535,A,Oxygen,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,A,286,ARG,CD,NH2,ARG,D,3.4931046962738037,R,Carbon delta,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,A,168,ARG,NH2,OE2,GLU,D,3.485177993774414,R,Nitrogen eta 2,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,95,SER,N,O3B,ATP,E,2.6812875270843506,S,Nitrogen,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,362,LEU,CD1,OD1,ASN,B,3.0044751167297363,L,Carbon delta 1,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,A,242,SER,CB,OE1,GLU,C,3.443349599838257,S,Carbon beta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,B,98,LYS,N,O2B,ADP,F,3.329860210418701,K,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,B,100,HIS,CB,O1A,ADP,F,3.2147908210754395,H,Carbon beta,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,O1B,ATP,E,3.2382497787475586,?,Phosphorus gamma,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,98,LYS,NZ,O2G,ATP,E,2.7940337657928467,K,Nitrogen zeta,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,A,263,LYS,N,CG1,VAL,C,3.2846343517303467,K,Nitrogen,Unknown
+fold_k401_atp_tub_333_model_0,A,355,GLU,OE2,ND2,ASN,B,2.093235969543457,E,Oxygen epsilon 2,Nitrogen delta 2
+fold_k401_atp_tub_333_model_0,A,388,ILE,O,NH2,ARG,B,2.9071762561798096,I,Oxygen,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,PB,ATP,E,2.8770556449890137,?,Phosphorus gamma,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,387,GLN,CB,NH2,ARG,B,3.40564227104187,Q,Carbon beta,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,OG1,THR,A,2.0942041873931885,?,Magnesium,Oxygen gamma 1
+fold_k401_atp_tub_333_model_0,B,94,THR,C,O3B,ADP,F,3.466949701309204,T,Carbon,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,MG,MG,I,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_333_model_0,A,359,ASN,CG,OE2,GLU,B,3.250474452972412,N,Carbon gamma,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,266,SER,OG,OE2,GLU,C,2.526207208633423,S,Oxygen gamma,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,286,ARG,NH1,OD1,ASN,D,3.3981685638427734,R,Nitrogen eta 1,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,A,241,GLY,CA,O2G,ATP,E,3.3208553791046143,G,Carbon alpha,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,B,95,SER,N,PB,ADP,F,3.4604098796844482,S,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,348,TRP,CD1,O,ALA,B,3.418649673461914,W,Carbon delta 1,Oxygen
+fold_k401_atp_tub_333_model_0,B,95,SER,CA,O3B,ADP,F,2.908998966217041,S,Carbon alpha,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,377,ARG,CD,OE1,GLN,B,3.3589792251586914,R,Carbon delta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,B,97,GLY,C,O1A,ADP,F,3.2582225799560547,G,Carbon,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,CA,SER,A,3.2306888103485107,?,Oxygen 3 beta,Carbon alpha
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,PB,ATP,E,1.4691572189331055,?,Oxygen 1 beta,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,208,SER,CA,O1G,ATP,E,3.3621718883514404,S,Carbon alpha,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,O1B,ADP,F,1.4816398620605469,?,Phosphorus beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,100,HIS,CB,O2A,ATP,E,3.41861629486084,H,Carbon beta,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,21,PRO,CD,N1,ATP,E,3.139655828475952,P,Carbon delta,Nitrogen 1
+fold_k401_atp_tub_333_model_0,A,282,HIS,C,OE1,GLN,D,3.4626829624176025,H,Carbon,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,N,THR,A,3.1270501613616943,?,Oxygen 1 beta,Nitrogen
+fold_k401_atp_tub_333_model_0,A,165,ASP,O,CE,MET,D,3.496140956878662,D,Oxygen,Carbon epsilon
+fold_k401_atp_tub_333_model_0,A,359,ASN,OD1,N,ASN,B,3.374994993209839,N,Oxygen delta 1,Nitrogen
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,PA,ADP,F,3.022559404373169,?,Oxygen 2 beta,Phosphorus alpha
+fold_k401_atp_tub_333_model_0,B,96,SER,C,O1B,ADP,F,3.3951852321624756,S,Carbon,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,O1B,ADP,F,2.469125270843506,?,Oxygen 2 beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,98,LYS,N,O2B,ATP,E,2.902712106704712,K,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,O3G,ATP,E,0.0,?,Oxygen 3 gamma,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,A,99,THR,CB,O1B,ATP,E,3.414935350418091,T,Carbon beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,ND2,ASN,A,2.9855401515960693,?,Oxygen 3 beta,Nitrogen delta 2
+fold_k401_atp_tub_333_model_0,A,286,ARG,CZ,OD2,ASP,D,3.2307052612304688,R,Carbon zeta,Oxygen delta 2
+fold_k401_atp_tub_333_model_0,A,359,ASN,ND2,CD,GLU,B,3.3283421993255615,N,Nitrogen delta 2,Carbon delta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O3B,ATP,E,1.5892517566680908,?,Phosphorus beta,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,282,HIS,CB,OE1,GLN,D,3.4529430866241455,H,Carbon beta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,O3A,ADP,F,1.6029596328735352,?,Phosphorus beta,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,MG,MG,L,2.3596479892730713,?,Oxygen 2 beta,Magnesium
+fold_k401_atp_tub_333_model_0,A,162,VAL,O,OE1,GLU,D,3.1651947498321533,V,Oxygen,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,99,THR,CB,MG,MG,I,3.229459047317505,T,Carbon beta,Magnesium
+fold_k401_atp_tub_333_model_0,A,98,LYS,CE,O2G,ATP,E,3.42484712600708,K,Carbon epsilon,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,A,209,SER,OG,O3G,ATP,E,3.1709234714508057,S,Oxygen gamma,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,A,355,GLU,CG,CE2,TYR,B,3.383622646331787,E,Carbon gamma,Carbon epsilon 2
+fold_k401_atp_tub_333_model_0,A,286,ARG,NH1,CB,ASN,D,3.3827693462371826,R,Nitrogen eta 1,Carbon beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,PG,ATP,E,3.2382497787475586,?,Oxygen 1 beta,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,B,95,SER,CA,O3A,ADP,F,3.205125331878662,S,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,286,ARG,NH1,CG,ASN,D,3.20878267288208,R,Nitrogen eta 1,Carbon gamma
+fold_k401_atp_tub_333_model_0,A,370,GLU,OE1,NZ,LYS,B,3.102832317352295,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O2B,ATP,E,2.525585651397705,?,Oxygen 1 beta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,251,GLU,OE1,NZ,LYS,C,2.919468641281128,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,A,244,LYS,NZ,CD,GLU,C,3.4616966247558594,K,Nitrogen zeta,Carbon delta
+fold_k401_atp_tub_333_model_0,A,262,ASN,O,CG1,VAL,C,3.423175096511841,N,Oxygen,Unknown
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,O2B,ADP,F,0.0,?,Oxygen 2 beta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,B,21,PRO,CG,N1,ADP,F,3.347564935684204,P,Carbon gamma,Nitrogen 1
+fold_k401_atp_tub_333_model_0,A,263,LYS,CA,CG1,VAL,C,3.3898534774780273,K,Carbon alpha,Unknown
+fold_k401_atp_tub_333_model_0,A,348,TRP,CB,CB,TRP,B,3.37213397026062,W,Carbon beta,Carbon beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,PB,ATP,E,0.0,?,Phosphorus beta,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,97,GLY,N,O3A,ATP,E,3.153637647628784,G,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,286,ARG,NE,OD2,ASP,D,2.587143898010254,R,Nitrogen epsilon,Oxygen delta 2
+fold_k401_atp_tub_333_model_0,A,97,GLY,CA,O2A,ATP,E,3.2927677631378174,G,Carbon alpha,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,282,HIS,ND1,O,ASP,D,3.437537908554077,H,Nitrogen delta 1,Oxygen
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O2B,ATP,E,2.535677194595337,?,Oxygen 3 beta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,359,ASN,ND2,O,GLU,B,3.1244022846221924,N,Nitrogen delta 2,Oxygen
+fold_k401_atp_tub_333_model_0,A,166,LYS,NZ,OE1,GLU,B,2.852186679840088,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O2B,ATP,E,1.5103932619094849,?,Phosphorus beta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,OG1,THR,A,2.929311990737915,?,Oxygen 1 beta,Oxygen gamma 1
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,O3B,ADP,F,1.472666621208191,?,Phosphorus beta,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O2A,ATP,E,3.0880508422851562,?,Oxygen 1 beta,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,345,ALA,O,CD1,TRP,B,3.29819393157959,A,Oxygen,Carbon delta 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O1B,ATP,E,2.523198366165161,?,Oxygen 3 beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,PA,ATP,E,2.8289992809295654,?,Phosphorus beta,Phosphorus alpha
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH2,O,ILE,B,2.9241626262664795,R,Nitrogen eta 2,Oxygen
+fold_k401_atp_tub_333_model_0,A,95,SER,CA,O3B,ATP,E,3.2306888103485107,S,Carbon alpha,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,O2G,ATP,E,1.5067965984344482,?,Phosphorus gamma,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,A,390,MET,CE,NH1,ARG,B,3.470970630645752,M,Carbon epsilon,Nitrogen eta 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O3B,ATP,E,0.0,?,Oxygen 3 beta,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,286,ARG,NH2,N,ASN,D,3.3301308155059814,R,Nitrogen eta 2,Nitrogen
+fold_k401_atp_tub_333_model_0,A,241,GLY,N,O2G,ATP,E,3.044731855392456,G,Nitrogen,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,A,244,LYS,CG,OE2,GLU,C,3.1955912113189697,K,Carbon gamma,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,373,LEU,CD2,OE1,GLU,B,2.8488173484802246,L,Carbon delta 2,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,259,LYS,CG,N,GLY,C,3.368572235107422,K,Carbon gamma,Nitrogen
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,O3G,ATP,E,1.8871855735778809,?,Magnesium,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,A,345,ALA,CB,O,LEU,B,3.4529900550842285,A,Carbon beta,Oxygen
+fold_k401_atp_tub_333_model_0,A,286,ARG,CD,OD1,ASN,D,3.025829315185547,R,Carbon delta,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O2A,ATP,E,3.3353307247161865,?,Phosphorus beta,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,282,HIS,N,OE1,GLN,D,3.177708148956299,H,Nitrogen,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,208,SER,OG,O1G,ATP,E,3.0660386085510254,S,Oxygen gamma,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,O3B,ATP,E,2.492922782897949,?,Oxygen 3 gamma,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,B,100,HIS,N,O1A,ADP,F,2.9909827709198,H,Nitrogen,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,A,244,LYS,CE,OE2,GLU,C,3.12654972076416,K,Carbon epsilon,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,F,1,ADP,O3B,O2B,ADP,F,2.454362154006958,?,Oxygen 3 beta,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,166,LYS,N,CE,MET,D,3.2854411602020264,K,Nitrogen,Carbon epsilon
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,PG,ATP,E,3.1830251216888428,?,Magnesium,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,A,372,GLU,OE1,CD2,LEU,B,2.897334337234497,E,Oxygen epsilon 1,Carbon delta 2
+fold_k401_atp_tub_333_model_0,B,97,GLY,CA,O3A,ADP,F,3.218202590942383,G,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,B,98,LYS,NZ,O1B,ADP,F,3.1798770427703857,K,Nitrogen zeta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,N,SER,A,3.0193512439727783,?,Oxygen 3 gamma,Nitrogen
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,OG,SER,A,3.1709234714508057,?,Oxygen 3 gamma,Oxygen gamma
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,O1A,ADP,F,3.1477761268615723,?,Oxygen 2 beta,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,A,359,ASN,OD1,CG,ASN,B,3.3184893131256104,N,Oxygen delta 1,Carbon gamma
+fold_k401_atp_tub_333_model_0,B,96,SER,CA,O1B,ADP,F,3.4777181148529053,S,Carbon alpha,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,164,GLU,OE2,OG,SER,D,3.3908071517944336,E,Oxygen epsilon 2,Oxygen gamma
+fold_k401_atp_tub_333_model_0,A,99,THR,OG1,MG,MG,I,2.0942041873931885,T,Oxygen gamma 1,Magnesium
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,O2A,ADP,F,3.3226561546325684,?,Phosphorus beta,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,A,245,VAL,CG2,O,GLY,C,3.0533392429351807,V,Carbon gamma 2,Oxygen
+fold_k401_atp_tub_333_model_0,B,21,PRO,CD,N1,ADP,F,2.9657881259918213,P,Carbon delta,Nitrogen 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,CB,THR,A,3.414935350418091,?,Oxygen 1 beta,Carbon beta
+fold_k401_atp_tub_333_model_0,A,359,ASN,OD1,CA,ASN,B,3.404663562774658,N,Oxygen delta 1,Carbon alpha
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH1,O,ILE,B,3.320587158203125,R,Nitrogen eta 1,Oxygen
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O1B,ATP,E,1.4691572189331055,?,Phosphorus beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,148,LYS,NZ,CG,GLU,D,3.0600171089172363,K,Nitrogen zeta,Carbon gamma
+fold_k401_atp_tub_333_model_0,B,205,ASN,ND2,O2A,ADP,F,3.050569534301758,N,Nitrogen delta 2,Oxygen 2 alpha
+fold_k401_atp_tub_333_model_0,F,1,ADP,PB,PB,ADP,F,0.0,?,Phosphorus beta,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,259,LYS,CG,O,GLY,C,3.417788505554199,K,Carbon gamma,Oxygen
+fold_k401_atp_tub_333_model_0,A,148,LYS,NZ,OE1,GLU,D,3.2332611083984375,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,387,GLN,OE1,NE,ARG,B,3.4232521057128906,Q,Oxygen epsilon 1,Nitrogen epsilon
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O2G,ATP,E,3.427443504333496,?,Phosphorus beta,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,A,99,THR,N,O1B,ATP,E,3.1270501613616943,T,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,359,ASN,ND2,CB,LYS,B,3.4961185455322266,N,Nitrogen delta 2,Carbon beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O1A,ATP,E,3.366151809692383,?,Phosphorus beta,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,OG,SER,A,2.383908987045288,?,Magnesium,Oxygen gamma
+fold_k401_atp_tub_333_model_0,A,270,ASN,OD1,CG,ARG,C,3.4471793174743652,N,Oxygen delta 1,Carbon gamma
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH2,CD,GLU,B,3.2122764587402344,R,Nitrogen eta 2,Carbon delta
+fold_k401_atp_tub_333_model_0,A,95,SER,N,O1G,ATP,E,3.4559412002563477,S,Nitrogen,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,O3G,ATP,E,1.4954248666763306,?,Phosphorus gamma,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,PG,ATP,E,1.4954248666763306,?,Oxygen 3 gamma,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,A,372,GLU,CD,NH2,ARG,B,3.2395288944244385,E,Carbon delta,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH2,CB,GLN,B,3.443673610687256,R,Nitrogen eta 2,Carbon beta
+fold_k401_atp_tub_333_model_0,L,1,MG,MG,MG,MG,L,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,PA,ATP,E,3.0303733348846436,?,Oxygen 1 beta,Phosphorus alpha
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,PG,ATP,E,0.0,?,Phosphorus gamma,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,PB,ATP,E,3.3231005668640137,?,Magnesium,Phosphorus beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,O1G,ATP,E,2.4704530239105225,?,Oxygen 3 beta,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,F,1,ADP,O3B,O3B,ADP,F,0.0,?,Oxygen 3 beta,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,F,1,ADP,O2B,O3B,ADP,F,2.454362154006958,?,Oxygen 2 beta,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,359,ASN,CA,OD1,ASN,B,3.313840389251709,N,Carbon alpha,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,B,99,THR,OG1,MG,MG,L,2.5132641792297363,T,Oxygen gamma 1,Magnesium
+fold_k401_atp_tub_333_model_0,A,377,ARG,NE,OE1,GLN,B,3.4322307109832764,R,Nitrogen epsilon,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,377,ARG,NE,OE1,GLU,B,2.927035093307495,R,Nitrogen epsilon,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,A,369,LEU,O,CD1,LEU,B,3.4212889671325684,L,Oxygen,Carbon delta 1
+fold_k401_atp_tub_333_model_0,A,355,GLU,O,ND2,ASN,B,3.2249152660369873,E,Oxygen,Nitrogen delta 2
+fold_k401_atp_tub_333_model_0,A,359,ASN,CG,OD1,ASN,B,3.2423410415649414,N,Carbon gamma,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,A,205,ASN,ND2,O1G,ATP,E,3.0436339378356934,N,Nitrogen delta 2,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH2,N,ILE,B,3.186856508255005,R,Nitrogen eta 2,Nitrogen
+fold_k401_atp_tub_333_model_0,A,372,GLU,OE1,CZ,ARG,B,3.3366663455963135,E,Oxygen epsilon 1,Carbon zeta
+fold_k401_atp_tub_333_model_0,A,372,GLU,OE1,NE,ARG,B,2.9602437019348145,E,Oxygen epsilon 1,Nitrogen epsilon
+fold_k401_atp_tub_333_model_0,A,372,GLU,CD,CD2,LEU,B,3.3138582706451416,E,Carbon delta,Carbon delta 2
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,MG,MG,I,3.3231005668640137,?,Phosphorus beta,Magnesium
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O3G,ATP,E,2.8490939140319824,?,Oxygen 1 beta,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,O3B,ATP,E,3.483076572418213,?,Magnesium,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,B,97,GLY,N,O3A,ADP,F,2.751997947692871,G,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,359,ASN,OD1,CD1,LEU,B,2.9398081302642822,N,Oxygen delta 1,Carbon delta 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3B,PB,ATP,E,1.5892517566680908,?,Oxygen 3 beta,Phosphorus beta
+fold_k401_atp_tub_333_model_0,A,259,LYS,CD,O,GLY,C,3.2389283180236816,K,Carbon delta,Oxygen
+fold_k401_atp_tub_333_model_0,E,1,ATP,O1B,O3A,ATP,E,2.505882740020752,?,Oxygen 1 beta,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,94,THR,CA,O2G,ATP,E,3.2351601123809814,T,Carbon alpha,Oxygen 2 gamma
+fold_k401_atp_tub_333_model_0,A,21,PRO,CD,C6,ATP,E,3.3461709022521973,P,Carbon delta,Carbon 6
+fold_k401_atp_tub_333_model_0,A,94,THR,OG1,PG,ATP,E,3.4886205196380615,T,Oxygen gamma 1,Phosphorus gamma
+fold_k401_atp_tub_333_model_0,A,373,LEU,CD1,CD1,LEU,B,3.3294200897216797,L,Carbon delta 1,Carbon delta 1
+fold_k401_atp_tub_333_model_0,A,388,ILE,O,NH1,ARG,B,3.269794225692749,I,Oxygen,Nitrogen eta 1
+fold_k401_atp_tub_333_model_0,B,21,PRO,CD,C2,ADP,F,3.3996410369873047,P,Carbon delta,Carbon 2
+fold_k401_atp_tub_333_model_0,B,97,GLY,N,PB,ADP,F,3.3491928577423096,G,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,O1B,ATP,E,2.8490939140319824,?,Oxygen 3 gamma,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,I,1,MG,MG,CB,SER,A,3.2561676502227783,?,Magnesium,Carbon beta
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O3A,ATP,E,1.595050573348999,?,Phosphorus beta,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,262,ASN,C,CG1,VAL,C,3.32651686668396,N,Carbon,Unknown
+fold_k401_atp_tub_333_model_0,A,280,LYS,NZ,OE2,GLU,D,3.123756170272827,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,F,1,ADP,O3B,O1B,ADP,F,2.4606120586395264,?,Oxygen 3 beta,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,L,1,MG,MG,PB,ADP,F,3.3608336448669434,?,Magnesium,Phosphorus beta
+fold_k401_atp_tub_333_model_0,B,97,GLY,N,O1B,ADP,F,2.675644874572754,G,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,388,ILE,N,NH2,ARG,B,3.12166166305542,I,Nitrogen,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,K,1,MG,MG,MG,MG,K,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_333_model_0,B,99,THR,OG1,O2B,ADP,F,3.193438768386841,T,Oxygen gamma 1,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,209,SER,N,O3G,ATP,E,3.0193512439727783,S,Nitrogen,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,O3G,O1G,ATP,E,2.4987130165100098,?,Oxygen 3 gamma,Oxygen 1 gamma
+fold_k401_atp_tub_333_model_0,A,352,TYR,CE2,CG,GLU,B,3.467067003250122,Y,Carbon epsilon 2,Carbon gamma
+fold_k401_atp_tub_333_model_0,A,348,TRP,CZ3,CD1,TYR,B,3.4022600650787354,W,Unknown,Carbon delta 1
+fold_k401_atp_tub_333_model_0,L,1,MG,MG,O3B,ADP,F,3.3438289165496826,?,Magnesium,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,209,SER,CB,O3G,ATP,E,3.330125331878662,S,Carbon beta,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,A,209,SER,OG,MG,MG,I,2.383908987045288,S,Oxygen gamma,Magnesium
+fold_k401_atp_tub_333_model_0,A,286,ARG,NH2,CA,ASN,D,3.451533079147339,R,Nitrogen eta 2,Carbon alpha
+fold_k401_atp_tub_333_model_0,B,96,SER,N,O3A,ADP,F,3.4135568141937256,S,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_333_model_0,A,266,SER,CB,OE2,GLU,C,3.2954294681549072,S,Carbon beta,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,A,96,SER,OG,O2B,ATP,E,3.463273763656616,S,Oxygen gamma,Oxygen 2 beta
+fold_k401_atp_tub_333_model_0,A,286,ARG,CZ,OD1,ASN,D,3.4600741863250732,R,Carbon zeta,Oxygen delta 1
+fold_k401_atp_tub_333_model_0,A,372,GLU,OE1,NH2,ARG,B,2.8926682472229004,E,Oxygen epsilon 1,Nitrogen eta 2
+fold_k401_atp_tub_333_model_0,A,377,ARG,NH2,OE1,GLU,B,2.9045259952545166,R,Nitrogen eta 2,Oxygen epsilon 1
+fold_k401_atp_tub_333_model_0,E,1,ATP,PB,O3G,ATP,E,3.204216718673706,?,Phosphorus beta,Oxygen 3 gamma
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,O3B,ATP,E,1.6067571640014648,?,Phosphorus gamma,Oxygen 3 beta
+fold_k401_atp_tub_333_model_0,A,205,ASN,ND2,O1A,ATP,E,3.0404014587402344,N,Nitrogen delta 2,Oxygen 1 alpha
+fold_k401_atp_tub_333_model_0,A,373,LEU,CD1,O,LEU,B,3.4286022186279297,L,Carbon delta 1,Oxygen
+fold_k401_atp_tub_333_model_0,A,251,GLU,OE1,CE,LYS,C,3.312330484390259,E,Oxygen epsilon 1,Carbon epsilon
+fold_k401_atp_tub_333_model_0,E,1,ATP,PG,OG1,THR,A,3.4886205196380615,?,Phosphorus gamma,Oxygen gamma 1
+fold_k401_atp_tub_333_model_0,A,346,GLU,OE1,NZ,LYS,B,3.355003595352173,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_333_model_0,A,163,HIS,ND1,OE2,GLU,D,2.7265865802764893,H,Nitrogen delta 1,Oxygen epsilon 2
+fold_k401_atp_tub_333_model_0,B,98,LYS,N,O1B,ADP,F,2.786444902420044,K,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_333_model_0,A,164,GLU,O,CE,MET,D,2.836862087249756,E,Oxygen,Carbon epsilon
+fold_k401_atp_tub_333_model_0,A,346,GLU,OE2,NZ,LYS,B,2.8675215244293213,E,Oxygen epsilon 2,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,A,242,SER,CB,OE1,GLU,C,3.443349599838257,S,Carbon beta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,PA,ADP,F,3.022559404373169,?,Oxygen 2 beta,Phosphorus alpha
+fold_k401_atp_tub_222_model_0,A,100,HIS,CB,O2A,ATP,E,3.41861629486084,H,Carbon beta,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,A,164,GLU,OE1,OG,SER,D,3.2599518299102783,E,Oxygen epsilon 1,Oxygen gamma
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,O2A,ADP,F,3.199721336364746,?,Oxygen 2 beta,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,B,21,PRO,CG,N1,ADP,F,3.347564935684204,P,Carbon gamma,Nitrogen 1
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,O3A,ADP,F,1.6029596328735352,?,Phosphorus beta,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,390,MET,CE,NH1,ARG,B,3.470970630645752,M,Carbon epsilon,Nitrogen eta 1
+fold_k401_atp_tub_222_model_0,A,95,SER,N,O1G,ATP,E,3.4559412002563477,S,Nitrogen,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O1B,ATP,E,1.4691572189331055,?,Phosphorus beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,PG,ATP,E,2.8770556449890137,?,Phosphorus beta,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,A,373,LEU,CD2,OE1,GLU,B,2.8488173484802246,L,Carbon delta 2,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,21,PRO,CD,N1,ATP,E,3.139655828475952,P,Carbon delta,Nitrogen 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,MG,MG,I,1.8871855735778809,?,Oxygen 3 gamma,Magnesium
+fold_k401_atp_tub_222_model_0,A,99,THR,OG1,O1B,ATP,E,2.929311990737915,T,Oxygen gamma 1,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,PA,ADP,F,2.8757646083831787,?,Phosphorus beta,Phosphorus alpha
+fold_k401_atp_tub_222_model_0,A,286,ARG,CZ,OD1,ASN,D,3.4600741863250732,R,Carbon zeta,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,B,97,GLY,N,O3A,ADP,F,2.751997947692871,G,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,94,THR,OG1,O1G,ATP,E,2.4589946269989014,T,Oxygen gamma 1,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,F,1,ADP,O3B,O3B,ADP,F,0.0,?,Oxygen 3 beta,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,259,LYS,CG,N,GLY,C,3.368572235107422,K,Carbon gamma,Nitrogen
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,O3A,ADP,F,2.4595882892608643,?,Oxygen 2 beta,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,98,LYS,NZ,O2G,ATP,E,2.7940337657928467,K,Nitrogen zeta,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,A,262,ASN,C,CG1,VAL,C,3.32651686668396,N,Carbon,Unknown
+fold_k401_atp_tub_222_model_0,A,346,GLU,OE2,NZ,LYS,B,2.8675215244293213,E,Oxygen epsilon 2,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,A,370,GLU,OE1,NZ,LYS,B,3.102832317352295,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,B,95,SER,CA,O3B,ADP,F,2.908998966217041,S,Carbon alpha,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O3B,ATP,E,0.0,?,Oxygen 3 beta,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,O1G,ATP,E,2.4987130165100098,?,Oxygen 3 gamma,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,B,205,ASN,ND2,O2A,ADP,F,3.050569534301758,N,Nitrogen delta 2,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,B,97,GLY,CA,O3A,ADP,F,3.218202590942383,G,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,159,ASN,ND2,OE1,GLU,D,2.7908055782318115,N,Nitrogen delta 2,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O2B,ATP,E,2.525585651397705,?,Oxygen 1 beta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,B,96,SER,C,O1B,ADP,F,3.3951852321624756,S,Carbon,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,387,GLN,OE1,CD,ARG,B,3.351947069168091,Q,Oxygen epsilon 1,Carbon delta
+fold_k401_atp_tub_222_model_0,B,99,THR,OG1,MG,MG,L,2.5132641792297363,T,Oxygen gamma 1,Magnesium
+fold_k401_atp_tub_222_model_0,B,100,HIS,CB,O1A,ADP,F,3.2147908210754395,H,Carbon beta,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,PG,ATP,E,0.0,?,Phosphorus gamma,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,A,355,GLU,OE2,CG,ASN,B,3.2554051876068115,E,Oxygen epsilon 2,Carbon gamma
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,O3B,ATP,E,1.6067571640014648,?,Phosphorus gamma,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,263,LYS,N,CG1,VAL,C,3.2846343517303467,K,Nitrogen,Unknown
+fold_k401_atp_tub_222_model_0,A,99,THR,CB,O1B,ATP,E,3.414935350418091,T,Carbon beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,359,ASN,OD1,CD1,LEU,B,2.9398081302642822,N,Oxygen delta 1,Carbon delta 1
+fold_k401_atp_tub_222_model_0,A,98,LYS,NZ,O2B,ATP,E,3.053535223007202,K,Nitrogen zeta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O1A,ATP,E,3.366151809692383,?,Phosphorus beta,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,A,165,ASP,O,CE,MET,D,3.496140956878662,D,Oxygen,Carbon epsilon
+fold_k401_atp_tub_222_model_0,A,286,ARG,NH2,OD2,ASP,D,3.040119171142578,R,Nitrogen eta 2,Oxygen delta 2
+fold_k401_atp_tub_222_model_0,A,372,GLU,OE1,NH2,ARG,B,2.8926682472229004,E,Oxygen epsilon 1,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,B,95,SER,C,O3A,ADP,F,3.151066303253174,S,Carbon,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,K,1,MG,MG,OE1,GLN,D,3.1787755489349365,?,Magnesium,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,377,ARG,NE,OE1,GLN,B,3.4322307109832764,R,Nitrogen epsilon,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,PB,ATP,E,2.8770556449890137,?,Phosphorus gamma,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,372,GLU,CD,CD2,LEU,B,3.3138582706451416,E,Carbon delta,Carbon delta 2
+fold_k401_atp_tub_222_model_0,A,98,LYS,N,O2B,ATP,E,2.902712106704712,K,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,286,ARG,NH1,OD1,ASN,D,3.3981685638427734,R,Nitrogen eta 1,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O2A,ATP,E,3.3353307247161865,?,Phosphorus beta,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,O3G,ATP,E,1.8871855735778809,?,Magnesium,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,A,286,ARG,CD,NH2,ARG,D,3.4931046962738037,R,Carbon delta,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,B,205,ASN,ND2,O3B,ADP,F,3.143019914627075,N,Nitrogen delta 2,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,OG,SER,A,2.383908987045288,?,Magnesium,Oxygen gamma
+fold_k401_atp_tub_222_model_0,A,259,LYS,CE,CG2,THR,C,3.338261604309082,K,Carbon epsilon,Carbon gamma 2
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,CB,THR,A,3.229459047317505,?,Magnesium,Carbon beta
+fold_k401_atp_tub_222_model_0,A,359,ASN,ND2,OE2,GLU,B,2.1528127193450928,N,Nitrogen delta 2,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,MG,MG,I,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_222_model_0,A,165,ASP,CA,CE,MET,D,3.443251371383667,D,Carbon alpha,Carbon epsilon
+fold_k401_atp_tub_222_model_0,A,348,TRP,CB,CB,TRP,B,3.37213397026062,W,Carbon beta,Carbon beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O2B,ATP,E,1.5103932619094849,?,Phosphorus beta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,O1B,ATP,E,2.8490939140319824,?,Oxygen 3 gamma,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,348,TRP,CD1,O,ALA,B,3.418649673461914,W,Carbon delta 1,Oxygen
+fold_k401_atp_tub_222_model_0,A,388,ILE,N,NH2,ARG,B,3.12166166305542,I,Nitrogen,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,A,251,GLU,CG,NZ,LYS,C,3.0843446254730225,E,Carbon gamma,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,PB,ATP,E,3.204216718673706,?,Oxygen 3 gamma,Phosphorus beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,MG,MG,L,2.3596479892730713,?,Oxygen 2 beta,Magnesium
+fold_k401_atp_tub_222_model_0,A,282,HIS,N,OE1,GLN,D,3.177708148956299,H,Nitrogen,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O2G,ATP,E,3.427443504333496,?,Phosphorus beta,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,A,270,ASN,OD1,CG,ARG,C,3.4471793174743652,N,Oxygen delta 1,Carbon gamma
+fold_k401_atp_tub_222_model_0,A,96,SER,N,O2B,ATP,E,3.1592752933502197,S,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,168,ARG,NH2,OE2,GLU,D,3.485177993774414,R,Nitrogen eta 2,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,96,SER,OG,O2B,ATP,E,3.463273763656616,S,Oxygen gamma,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,245,VAL,CG2,O,GLY,C,3.0533392429351807,V,Carbon gamma 2,Oxygen
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O3B,ATP,E,1.5892517566680908,?,Phosphorus beta,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,N,SER,A,2.6812875270843506,?,Oxygen 3 beta,Nitrogen
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O3A,ATP,E,2.49123477935791,?,Oxygen 3 beta,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,205,ASN,ND2,O1A,ATP,E,3.0404014587402344,N,Nitrogen delta 2,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,O3G,ATP,E,0.0,?,Oxygen 3 gamma,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,O3B,ADP,F,2.454362154006958,?,Oxygen 2 beta,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O3A,ATP,E,2.505882740020752,?,Oxygen 1 beta,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,B,95,SER,N,O3B,ADP,F,2.427954912185669,S,Nitrogen,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,372,GLU,OE1,CD2,LEU,B,2.897334337234497,E,Oxygen epsilon 1,Carbon delta 2
+fold_k401_atp_tub_222_model_0,B,97,GLY,CA,O1A,ADP,F,3.01090931892395,G,Carbon alpha,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,O1A,ADP,F,3.447399377822876,?,Phosphorus beta,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,A,244,LYS,CE,OE2,GLU,C,3.12654972076416,K,Carbon epsilon,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,372,GLU,OE1,CZ,ARG,B,3.3366663455963135,E,Oxygen epsilon 1,Carbon zeta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,PG,ATP,E,1.4954248666763306,?,Oxygen 3 gamma,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,J,1,MG,MG,MG,MG,J,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_222_model_0,A,163,HIS,ND1,OE2,GLU,D,2.7265865802764893,H,Nitrogen delta 1,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,266,SER,CB,OE2,GLU,C,3.2954294681549072,S,Carbon beta,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,359,ASN,OD1,CG,ASN,B,3.3184893131256104,N,Oxygen delta 1,Carbon gamma
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,PB,ATP,E,0.0,?,Phosphorus beta,Phosphorus beta
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,PG,ATP,E,3.1830251216888428,?,Magnesium,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,K,1,MG,MG,MG,MG,K,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O1B,ATP,E,2.523198366165161,?,Oxygen 3 beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,B,97,GLY,N,PB,ADP,F,3.3491928577423096,G,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,95,SER,C,O3A,ATP,E,3.3586552143096924,S,Carbon,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,241,GLY,N,O2G,ATP,E,3.044731855392456,G,Nitrogen,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,O3B,ATP,E,3.483076572418213,?,Magnesium,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,O2G,ATP,E,2.4991073608398438,?,Oxygen 3 gamma,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,A,346,GLU,CD,NZ,LYS,B,3.4999756813049316,E,Carbon delta,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,B,97,GLY,C,O1A,ADP,F,3.2582225799560547,G,Carbon,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,B,99,THR,N,O2B,ADP,F,3.092935562133789,T,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,MG,MG,L,3.3608336448669434,?,Phosphorus beta,Magnesium
+fold_k401_atp_tub_222_model_0,A,99,THR,OG1,MG,MG,I,2.0942041873931885,T,Oxygen gamma 1,Magnesium
+fold_k401_atp_tub_222_model_0,A,369,LEU,O,CD1,LEU,B,3.4212889671325684,L,Oxygen,Carbon delta 1
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH2,N,ILE,B,3.186856508255005,R,Nitrogen eta 2,Nitrogen
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,PG,ATP,E,3.2382497787475586,?,Oxygen 1 beta,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,A,355,GLU,CD,ND2,ASN,B,3.3089170455932617,E,Carbon delta,Nitrogen delta 2
+fold_k401_atp_tub_222_model_0,A,98,LYS,CE,O2G,ATP,E,3.42484712600708,K,Carbon epsilon,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,A,359,ASN,OD1,OD1,ASN,B,2.726900815963745,N,Oxygen delta 1,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,B,96,SER,N,O1B,ADP,F,2.889603614807129,S,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,387,GLN,CB,NH2,ARG,B,3.40564227104187,Q,Carbon beta,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,PG,ATP,E,1.6067571640014648,?,Oxygen 3 beta,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,A,97,GLY,N,O2B,ATP,E,2.91800856590271,G,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,244,LYS,NZ,OE2,GLU,C,2.4500958919525146,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,286,ARG,NE,OD1,ASN,D,3.2957565784454346,R,Nitrogen epsilon,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,O3B,ADP,F,1.472666621208191,?,Phosphorus beta,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,286,ARG,NH1,CG,ASN,D,3.20878267288208,R,Nitrogen eta 1,Carbon gamma
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH2,OE2,GLU,B,2.7509443759918213,R,Nitrogen eta 2,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O1G,ATP,E,2.4704530239105225,?,Oxygen 3 beta,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,B,100,HIS,N,O1A,ADP,F,2.9909827709198,H,Nitrogen,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,A,209,SER,CB,MG,MG,I,3.2561676502227783,S,Carbon beta,Magnesium
+fold_k401_atp_tub_222_model_0,A,359,ASN,OD1,CA,ASN,B,3.404663562774658,N,Oxygen delta 1,Carbon alpha
+fold_k401_atp_tub_222_model_0,A,251,GLU,OE1,NZ,LYS,C,2.919468641281128,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,B,94,THR,C,O3B,ADP,F,3.466949701309204,T,Carbon,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,OG1,THR,A,2.929311990737915,?,Oxygen 1 beta,Oxygen gamma 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,N,SER,A,3.0193512439727783,?,Oxygen 3 gamma,Nitrogen
+fold_k401_atp_tub_222_model_0,A,95,SER,CA,O3A,ATP,E,3.2520391941070557,S,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,263,LYS,CA,CG1,VAL,C,3.3898534774780273,K,Carbon alpha,Unknown
+fold_k401_atp_tub_222_model_0,A,359,ASN,CG,OE2,GLU,B,3.250474452972412,N,Carbon gamma,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,O3B,ATP,E,2.492922782897949,?,Oxygen 3 gamma,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,PB,ADP,F,1.4713279008865356,?,Oxygen 2 beta,Phosphorus beta
+fold_k401_atp_tub_222_model_0,B,96,SER,N,O3A,ADP,F,3.4135568141937256,S,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,F,1,ADP,O3B,O2B,ADP,F,2.454362154006958,?,Oxygen 3 beta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,166,LYS,NZ,OE2,GLU,B,3.2736032009124756,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,CB,SER,A,3.2561676502227783,?,Magnesium,Carbon beta
+fold_k401_atp_tub_222_model_0,A,100,HIS,N,O2A,ATP,E,3.0084950923919678,H,Nitrogen,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,A,377,ARG,CD,OE1,GLN,B,3.3589792251586914,R,Carbon delta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,PB,ATP,E,1.5892517566680908,?,Oxygen 3 beta,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,244,LYS,NZ,CD,GLU,C,3.4616966247558594,K,Nitrogen zeta,Carbon delta
+fold_k401_atp_tub_222_model_0,A,148,LYS,NZ,CG,GLU,D,3.0600171089172363,K,Nitrogen zeta,Carbon gamma
+fold_k401_atp_tub_222_model_0,A,164,GLU,OE2,OG,SER,D,3.3908071517944336,E,Oxygen epsilon 2,Oxygen gamma
+fold_k401_atp_tub_222_model_0,A,286,ARG,NE,OD2,ASP,D,2.587143898010254,R,Nitrogen epsilon,Oxygen delta 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O3G,ATP,E,3.204216718673706,?,Phosphorus beta,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,O3G,ATP,E,1.4954248666763306,?,Phosphorus gamma,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,O1B,ADP,F,1.4816398620605469,?,Phosphorus beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,O2A,ADP,F,3.3226561546325684,?,Phosphorus beta,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,A,244,LYS,CG,OE2,GLU,C,3.1955912113189697,K,Carbon gamma,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,20,ARG,CB,N7,ATP,E,3.418571949005127,R,Carbon beta,Nitrogen 7
+fold_k401_atp_tub_222_model_0,A,282,HIS,O,OE1,GLN,D,2.674067497253418,H,Oxygen,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,355,GLU,O,ND2,ASN,B,3.2249152660369873,E,Oxygen,Nitrogen delta 2
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,PB,ADP,F,0.0,?,Phosphorus beta,Phosphorus beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,CB,THR,A,3.414935350418091,?,Oxygen 1 beta,Carbon beta
+fold_k401_atp_tub_222_model_0,L,1,MG,MG,O2B,ADP,F,2.3596479892730713,?,Magnesium,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,280,LYS,NZ,OE2,GLU,D,3.123756170272827,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,A,345,ALA,CB,O,LEU,B,3.4529900550842285,A,Carbon beta,Oxygen
+fold_k401_atp_tub_222_model_0,B,98,LYS,NZ,O1B,ADP,F,3.1798770427703857,K,Nitrogen zeta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,97,GLY,N,O3A,ATP,E,3.153637647628784,G,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,365,LYS,NZ,OE1,GLU,B,3.3695459365844727,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,OG1,THR,A,3.4886205196380615,?,Phosphorus gamma,Oxygen gamma 1
+fold_k401_atp_tub_222_model_0,A,282,HIS,CE1,O,ASP,D,3.4395480155944824,H,Carbon epsilon 1,Oxygen
+fold_k401_atp_tub_222_model_0,A,262,ASN,O,CG1,VAL,C,3.423175096511841,N,Oxygen,Unknown
+fold_k401_atp_tub_222_model_0,B,20,ARG,CB,C5,ADP,F,3.446227550506592,R,Carbon beta,Carbon 5
+fold_k401_atp_tub_222_model_0,A,282,HIS,CB,OE1,GLN,D,3.4529430866241455,H,Carbon beta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,B,21,PRO,CD,C6,ADP,F,3.107449531555176,P,Carbon delta,Carbon 6
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,PB,ATP,E,1.4691572189331055,?,Oxygen 1 beta,Phosphorus beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O1A,ATP,E,3.2885046005249023,?,Oxygen 1 beta,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,B,96,SER,OG,O1B,ADP,F,3.137603759765625,S,Oxygen gamma,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,282,HIS,ND1,O,ASP,D,3.437537908554077,H,Nitrogen delta 1,Oxygen
+fold_k401_atp_tub_222_model_0,A,148,LYS,NZ,OE1,GLU,D,3.2332611083984375,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,164,GLU,N,OE1,GLU,D,3.4783287048339844,E,Nitrogen,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,O2G,ATP,E,1.5067965984344482,?,Phosphorus gamma,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,L,1,MG,MG,O3B,ADP,F,3.3438289165496826,?,Magnesium,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,209,SER,N,O3G,ATP,E,3.0193512439727783,S,Nitrogen,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,F,1,ADP,O3B,O1B,ADP,F,2.4606120586395264,?,Oxygen 3 beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,345,ALA,O,CD1,TRP,B,3.29819393157959,A,Oxygen,Carbon delta 1
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,O1B,ATP,E,2.1643989086151123,?,Magnesium,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,250,ALA,O,NZ,LYS,C,3.3081231117248535,A,Oxygen,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,A,388,ILE,O,NH1,ARG,B,3.269794225692749,I,Oxygen,Nitrogen eta 1
+fold_k401_atp_tub_222_model_0,B,98,LYS,N,O1B,ADP,F,2.786444902420044,K,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,165,ASP,C,CE,MET,D,3.115731954574585,D,Carbon,Carbon epsilon
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,O3A,ATP,E,1.595050573348999,?,Phosphorus beta,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,A,352,TYR,CE2,CG,GLU,B,3.467067003250122,Y,Carbon epsilon 2,Carbon gamma
+fold_k401_atp_tub_222_model_0,A,209,SER,OG,MG,MG,I,2.383908987045288,S,Oxygen gamma,Magnesium
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,O1G,ATP,E,1.5014592409133911,?,Phosphorus gamma,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,A,373,LEU,CD2,CD,GLU,B,3.2896721363067627,L,Carbon delta 2,Carbon delta
+fold_k401_atp_tub_222_model_0,A,286,ARG,NH2,CA,ASN,D,3.451533079147339,R,Nitrogen eta 2,Carbon alpha
+fold_k401_atp_tub_222_model_0,L,1,MG,MG,MG,MG,L,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_222_model_0,A,266,SER,OG,OE2,GLU,C,2.526207208633423,S,Oxygen gamma,Oxygen epsilon 2
+fold_k401_atp_tub_222_model_0,B,99,THR,OG1,O2B,ADP,F,3.193438768386841,T,Oxygen gamma 1,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,PA,ATP,E,2.8289992809295654,?,Phosphorus beta,Phosphorus alpha
+fold_k401_atp_tub_222_model_0,A,21,PRO,CD,C6,ATP,E,3.3461709022521973,P,Carbon delta,Carbon 6
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,O1B,ATP,E,3.2382497787475586,?,Phosphorus gamma,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O3B,ATP,E,2.523198366165161,?,Oxygen 1 beta,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,259,LYS,CG,O,GLY,C,3.417788505554199,K,Carbon gamma,Oxygen
+fold_k401_atp_tub_222_model_0,A,346,GLU,OE1,NZ,LYS,B,3.355003595352173,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,F,1,ADP,PB,O2B,ADP,F,1.4713279008865356,?,Phosphorus beta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,O3B,O3A,ADP,F,2.453202486038208,?,Oxygen 3 beta,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O1B,ATP,E,0.0,?,Oxygen 1 beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,99,THR,N,O1B,ATP,E,3.1270501613616943,T,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,242,SER,OG,OE1,GLU,C,3.076216220855713,S,Oxygen gamma,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,208,SER,OG,O1G,ATP,E,3.0660386085510254,S,Oxygen gamma,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH2,CB,GLN,B,3.443673610687256,R,Nitrogen eta 2,Carbon beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,OG,SER,A,3.1709234714508057,?,Oxygen 3 gamma,Oxygen gamma
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH2,CD,GLU,B,3.2122764587402344,R,Nitrogen eta 2,Carbon delta
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,O1A,ADP,F,3.1477761268615723,?,Oxygen 2 beta,Oxygen 1 alpha
+fold_k401_atp_tub_222_model_0,A,99,THR,CB,MG,MG,I,3.229459047317505,T,Carbon beta,Magnesium
+fold_k401_atp_tub_222_model_0,B,95,SER,N,PB,ADP,F,3.4604098796844482,S,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,166,LYS,NZ,OE1,GLU,B,2.852186679840088,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,372,GLU,OE1,NE,ARG,B,2.9602437019348145,E,Oxygen epsilon 1,Nitrogen epsilon
+fold_k401_atp_tub_222_model_0,A,95,SER,N,O3B,ATP,E,2.6812875270843506,S,Nitrogen,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH2,O,ILE,B,2.9241626262664795,R,Nitrogen eta 2,Oxygen
+fold_k401_atp_tub_222_model_0,A,94,THR,CA,O2G,ATP,E,3.2351601123809814,T,Carbon alpha,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,A,241,GLY,CA,O2G,ATP,E,3.3208553791046143,G,Carbon alpha,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,A,348,TRP,CZ3,CD1,TYR,B,3.4022600650787354,W,Unknown,Carbon delta 1
+fold_k401_atp_tub_222_model_0,A,259,LYS,CD,O,GLY,C,3.2389283180236816,K,Carbon delta,Oxygen
+fold_k401_atp_tub_222_model_0,A,373,LEU,CD1,O,LEU,B,3.4286022186279297,L,Carbon delta 1,Oxygen
+fold_k401_atp_tub_222_model_0,A,377,ARG,NE,OE1,GLU,B,2.927035093307495,R,Nitrogen epsilon,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,286,ARG,NH1,CB,ASN,D,3.3827693462371826,R,Nitrogen eta 1,Carbon beta
+fold_k401_atp_tub_222_model_0,A,163,HIS,CA,OE1,GLU,D,3.1208677291870117,H,Carbon alpha,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,PG,MG,MG,I,3.1830251216888428,?,Phosphorus gamma,Magnesium
+fold_k401_atp_tub_222_model_0,B,96,SER,CA,O1B,ADP,F,3.4777181148529053,S,Carbon alpha,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,L,1,MG,MG,PB,ADP,F,3.3608336448669434,?,Magnesium,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,359,ASN,ND2,O,GLU,B,3.1244022846221924,N,Nitrogen delta 2,Oxygen
+fold_k401_atp_tub_222_model_0,A,372,GLU,CD,NH2,ARG,B,3.2395288944244385,E,Carbon delta,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,B,97,GLY,N,O1B,ADP,F,2.675644874572754,G,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,A,388,ILE,O,NH2,ARG,B,2.9071762561798096,I,Oxygen,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,PB,MG,MG,I,3.3231005668640137,?,Phosphorus beta,Magnesium
+fold_k401_atp_tub_222_model_0,B,98,LYS,N,PB,ADP,F,3.454066753387451,K,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,PA,ATP,E,3.0303733348846436,?,Oxygen 1 beta,Phosphorus alpha
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,N,THR,A,3.1270501613616943,?,Oxygen 1 beta,Nitrogen
+fold_k401_atp_tub_222_model_0,A,209,SER,CB,O3G,ATP,E,3.330125331878662,S,Carbon beta,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,B,95,SER,CA,O3A,ADP,F,3.205125331878662,S,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O3G,ATP,E,2.8490939140319824,?,Oxygen 1 beta,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,A,286,ARG,NH2,N,ASN,D,3.3301308155059814,R,Nitrogen eta 2,Nitrogen
+fold_k401_atp_tub_222_model_0,A,205,ASN,ND2,O3B,ATP,E,2.9855401515960693,N,Nitrogen delta 2,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH1,O,ILE,B,3.320587158203125,R,Nitrogen eta 1,Oxygen
+fold_k401_atp_tub_222_model_0,A,387,GLN,OE1,NE,ARG,B,3.4232521057128906,Q,Oxygen epsilon 1,Nitrogen epsilon
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,MG,MG,I,3.483076572418213,?,Oxygen 3 beta,Magnesium
+fold_k401_atp_tub_222_model_0,A,166,LYS,N,CE,MET,D,3.2854411602020264,K,Nitrogen,Carbon epsilon
+fold_k401_atp_tub_222_model_0,A,287,ASP,OD1,CD,ARG,D,3.1773908138275146,D,Oxygen delta 1,Carbon delta
+fold_k401_atp_tub_222_model_0,A,251,GLU,CD,NZ,LYS,C,3.4794769287109375,E,Carbon delta,Nitrogen zeta
+fold_k401_atp_tub_222_model_0,A,166,LYS,NZ,CD,GLU,B,3.463228702545166,K,Nitrogen zeta,Carbon delta
+fold_k401_atp_tub_222_model_0,A,362,LEU,CD1,OD1,ASN,B,3.0044751167297363,L,Carbon delta 1,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,A,162,VAL,O,OE1,GLU,D,3.1651947498321533,V,Oxygen,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,95,SER,CA,O3B,ATP,E,3.2306888103485107,S,Carbon alpha,Oxygen 3 beta
+fold_k401_atp_tub_222_model_0,A,373,LEU,CD1,CD1,LEU,B,3.3294200897216797,L,Carbon delta 1,Carbon delta 1
+fold_k401_atp_tub_222_model_0,B,98,LYS,N,O2B,ADP,F,3.329860210418701,K,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,O1B,ADP,F,2.469125270843506,?,Oxygen 2 beta,Oxygen 1 beta
+fold_k401_atp_tub_222_model_0,F,1,ADP,O2B,O2B,ADP,F,0.0,?,Oxygen 2 beta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,A,97,GLY,CA,O2A,ATP,E,3.2927677631378174,G,Carbon alpha,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,A,286,ARG,CB,NH1,ARG,D,3.296154737472534,R,Carbon beta,Nitrogen eta 1
+fold_k401_atp_tub_222_model_0,A,286,ARG,CZ,OD2,ASP,D,3.2307052612304688,R,Carbon zeta,Oxygen delta 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O3G,ATP,E,2.492922782897949,?,Oxygen 3 beta,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,A,282,HIS,C,OE1,GLN,D,3.4626829624176025,H,Carbon,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,251,GLU,OE1,CE,LYS,C,3.312330484390259,E,Oxygen epsilon 1,Carbon epsilon
+fold_k401_atp_tub_222_model_0,A,377,ARG,CZ,OE1,GLU,B,3.327723741531372,R,Carbon zeta,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,A,164,GLU,O,CE,MET,D,2.836862087249756,E,Oxygen,Carbon epsilon
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH1,CE,MET,B,3.4872195720672607,R,Nitrogen eta 1,Carbon epsilon
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,ND2,ASN,A,2.9855401515960693,?,Oxygen 3 beta,Nitrogen delta 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,O2A,ATP,E,3.0880508422851562,?,Oxygen 1 beta,Oxygen 2 alpha
+fold_k401_atp_tub_222_model_0,A,359,ASN,N,OD1,ASN,B,3.3212389945983887,N,Nitrogen,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,A,359,ASN,OD1,N,ASN,B,3.374994993209839,N,Oxygen delta 1,Nitrogen
+fold_k401_atp_tub_222_model_0,A,208,SER,CA,O1G,ATP,E,3.3621718883514404,S,Carbon alpha,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,B,21,PRO,CD,N1,ADP,F,2.9657881259918213,P,Carbon delta,Nitrogen 1
+fold_k401_atp_tub_222_model_0,A,205,ASN,ND2,O1G,ATP,E,3.0436339378356934,N,Nitrogen delta 2,Oxygen 1 gamma
+fold_k401_atp_tub_222_model_0,A,377,ARG,NH2,OE1,GLU,B,2.9045259952545166,R,Nitrogen eta 2,Oxygen epsilon 1
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,OG1,THR,A,2.0942041873931885,?,Magnesium,Oxygen gamma 1
+fold_k401_atp_tub_222_model_0,A,286,ARG,CD,OD1,ASN,D,3.025829315185547,R,Carbon delta,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,A,286,ARG,CD,NH1,ARG,D,3.453503370285034,R,Carbon delta,Nitrogen eta 1
+fold_k401_atp_tub_222_model_0,E,1,ATP,O1B,MG,MG,I,2.1643989086151123,?,Oxygen 1 beta,Magnesium
+fold_k401_atp_tub_222_model_0,A,359,ASN,CA,OD1,ASN,B,3.313840389251709,N,Carbon alpha,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,F,1,ADP,O3B,PB,ADP,F,1.472666621208191,?,Oxygen 3 beta,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,359,ASN,ND2,CD,GLU,B,3.3283421993255615,N,Nitrogen delta 2,Carbon delta
+fold_k401_atp_tub_222_model_0,A,355,GLU,CG,CE2,TYR,B,3.383622646331787,E,Carbon gamma,Carbon epsilon 2
+fold_k401_atp_tub_222_model_0,A,359,ASN,ND2,CB,LYS,B,3.4961185455322266,N,Nitrogen delta 2,Carbon beta
+fold_k401_atp_tub_222_model_0,A,94,THR,OG1,PG,ATP,E,3.4886205196380615,T,Oxygen gamma 1,Phosphorus gamma
+fold_k401_atp_tub_222_model_0,A,359,ASN,CG,OD1,ASN,B,3.2423410415649414,N,Carbon gamma,Oxygen delta 1
+fold_k401_atp_tub_222_model_0,B,20,ARG,CB,N7,ADP,F,3.1430580615997314,R,Carbon beta,Nitrogen 7
+fold_k401_atp_tub_222_model_0,F,1,ADP,O3B,MG,MG,L,3.3438289165496826,?,Oxygen 3 beta,Magnesium
+fold_k401_atp_tub_222_model_0,I,1,MG,MG,PB,ATP,E,3.3231005668640137,?,Magnesium,Phosphorus beta
+fold_k401_atp_tub_222_model_0,A,372,GLU,OE2,NH2,ARG,B,2.8381969928741455,E,Oxygen epsilon 2,Nitrogen eta 2
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,CA,SER,A,3.2306888103485107,?,Oxygen 3 beta,Carbon alpha
+fold_k401_atp_tub_222_model_0,A,209,SER,OG,O3G,ATP,E,3.1709234714508057,S,Oxygen gamma,Oxygen 3 gamma
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O2G,ATP,E,2.4854860305786133,?,Oxygen 3 beta,Oxygen 2 gamma
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3B,O2B,ATP,E,2.535677194595337,?,Oxygen 3 beta,Oxygen 2 beta
+fold_k401_atp_tub_222_model_0,E,1,ATP,O3G,CB,SER,A,3.330125331878662,?,Oxygen 3 gamma,Carbon beta
+fold_k401_atp_tub_222_model_0,B,21,PRO,CD,C2,ADP,F,3.3996410369873047,P,Carbon delta,Carbon 2
+fold_k401_atp_tub_222_model_0,A,355,GLU,OE2,ND2,ASN,B,2.093235969543457,E,Oxygen epsilon 2,Nitrogen delta 2
+fold_k401_atp_tub_model_0,A,262,ASN,C,CG1,VAL,C,3.3284223079681396,N,Carbon,Unknown
+fold_k401_atp_tub_model_0,F,1,ADP,O3B,O2B,ADP,F,2.4665675163269043,?,Oxygen 3 beta,Oxygen 2 beta
+fold_k401_atp_tub_model_0,B,98,LYS,N,PB,ADP,F,3.458432674407959,K,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_model_0,A,373,LEU,CD2,CD,GLU,B,3.291337490081787,L,Carbon delta 2,Carbon delta
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,OG1,THR,A,2.937647819519043,?,Oxygen 1 beta,Oxygen gamma 1
+fold_k401_atp_tub_model_0,F,1,ADP,PB,PA,ADP,F,2.8648641109466553,?,Phosphorus beta,Phosphorus alpha
+fold_k401_atp_tub_model_0,A,95,SER,CA,O3A,ATP,E,3.2989659309387207,S,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O3B,ATP,E,1.5918961763381958,?,Phosphorus beta,Oxygen 3 beta
+fold_k401_atp_tub_model_0,B,96,SER,CA,O1B,ADP,F,3.481640577316284,S,Carbon alpha,Oxygen 1 beta
+fold_k401_atp_tub_model_0,E,1,ATP,PG,MG,MG,I,3.2109994888305664,?,Phosphorus gamma,Magnesium
+fold_k401_atp_tub_model_0,A,94,THR,CA,O2G,ATP,E,3.2094626426696777,T,Carbon alpha,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,A,209,SER,OG,O3G,ATP,E,3.168142795562744,S,Oxygen gamma,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,B,205,ASN,ND2,O2A,ADP,F,3.032426595687866,N,Nitrogen delta 2,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O1A,ATP,E,3.2860324382781982,?,Oxygen 1 beta,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,F,1,ADP,PB,O2B,ADP,F,1.4653253555297852,?,Phosphorus beta,Oxygen 2 beta
+fold_k401_atp_tub_model_0,B,100,HIS,CB,O1A,ADP,F,3.233242988586426,H,Carbon beta,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,A,99,THR,CB,MG,MG,I,3.229156970977783,T,Carbon beta,Magnesium
+fold_k401_atp_tub_model_0,I,1,MG,MG,MG,MG,I,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_model_0,A,259,LYS,CG,N,GLY,C,3.241258144378662,K,Carbon gamma,Nitrogen
+fold_k401_atp_tub_model_0,A,242,SER,OG,OE1,GLU,C,2.9356131553649902,S,Oxygen gamma,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,B,100,HIS,N,O1A,ADP,F,3.0239858627319336,H,Nitrogen,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,A,94,THR,OG1,PG,ATP,E,3.4509520530700684,T,Oxygen gamma 1,Phosphorus gamma
+fold_k401_atp_tub_model_0,A,98,LYS,NZ,O2B,ATP,E,3.083491086959839,K,Nitrogen zeta,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,95,SER,N,O3B,ATP,E,2.6955759525299072,S,Nitrogen,Oxygen 3 beta
+fold_k401_atp_tub_model_0,F,1,ADP,PB,O3A,ADP,F,1.6073477268218994,?,Phosphorus beta,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,A,245,VAL,CG2,O,GLY,C,3.146156072616577,V,Carbon gamma 2,Oxygen
+fold_k401_atp_tub_model_0,A,377,ARG,NH2,CD,GLU,B,3.220224380493164,R,Nitrogen eta 2,Carbon delta
+fold_k401_atp_tub_model_0,A,241,GLY,N,O2G,ATP,E,3.06950306892395,G,Nitrogen,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,A,346,GLU,CD,NZ,LYS,B,3.474473714828491,E,Carbon delta,Nitrogen zeta
+fold_k401_atp_tub_model_0,A,359,ASN,ND2,OE2,GLU,B,2.054415225982666,N,Nitrogen delta 2,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,A,164,GLU,OE1,OG,SER,D,3.434391498565674,E,Oxygen epsilon 1,Oxygen gamma
+fold_k401_atp_tub_model_0,A,286,ARG,CZ,CA,ASN,D,3.431516408920288,R,Carbon zeta,Carbon alpha
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,PB,ATP,E,1.4655383825302124,?,Oxygen 1 beta,Phosphorus beta
+fold_k401_atp_tub_model_0,B,361,ARG,NH2,CD,ARG,D,3.3035149574279785,R,Nitrogen eta 2,Carbon delta
+fold_k401_atp_tub_model_0,A,241,GLY,CA,O2G,ATP,E,3.3549916744232178,G,Carbon alpha,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,A,21,PRO,CD,N1,ATP,E,3.147784471511841,P,Carbon delta,Nitrogen 1
+fold_k401_atp_tub_model_0,A,97,GLY,N,O2B,ATP,E,2.954782724380493,G,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,263,LYS,N,CG1,VAL,C,3.2993030548095703,K,Nitrogen,Unknown
+fold_k401_atp_tub_model_0,A,286,ARG,CZ,OD2,ASP,D,3.2226576805114746,R,Carbon zeta,Oxygen delta 2
+fold_k401_atp_tub_model_0,E,1,ATP,PB,MG,MG,I,3.341830253601074,?,Phosphorus beta,Magnesium
+fold_k401_atp_tub_model_0,E,1,ATP,PG,O1B,ATP,E,3.2138710021972656,?,Phosphorus gamma,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,99,THR,OG1,MG,MG,I,2.106107234954834,T,Oxygen gamma 1,Magnesium
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O2A,ATP,E,3.3366706371307373,?,Phosphorus beta,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O1B,ATP,E,0.0,?,Oxygen 1 beta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,282,HIS,O,OE1,GLN,D,2.875741958618164,H,Oxygen,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,99,THR,CB,O1B,ATP,E,3.424804925918579,T,Carbon beta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,99,THR,N,O1B,ATP,E,3.1761107444763184,T,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,282,HIS,NE2,CD,GLU,D,3.4914896488189697,H,Nitrogen epsilon 2,Carbon delta
+fold_k401_atp_tub_model_0,A,373,LEU,CD1,CD1,LEU,B,3.402869939804077,L,Carbon delta 1,Carbon delta 1
+fold_k401_atp_tub_model_0,A,263,LYS,CA,CG1,VAL,C,3.3734281063079834,K,Carbon alpha,Unknown
+fold_k401_atp_tub_model_0,A,377,ARG,NH2,OE2,GLU,B,2.765533447265625,R,Nitrogen eta 2,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,B,97,GLY,CA,O1A,ADP,F,3.0658042430877686,G,Carbon alpha,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,L,1,MG,MG,MG,MG,L,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,O1G,ATP,E,2.4922094345092773,?,Oxygen 3 gamma,Oxygen 1 gamma
+fold_k401_atp_tub_model_0,I,1,MG,MG,CB,SER,A,3.2176055908203125,?,Magnesium,Carbon beta
+fold_k401_atp_tub_model_0,A,259,LYS,CG,CA,GLY,C,3.4525201320648193,K,Carbon gamma,Carbon alpha
+fold_k401_atp_tub_model_0,A,372,GLU,OE1,NH2,ARG,B,2.9009642601013184,E,Oxygen epsilon 1,Nitrogen eta 2
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O1B,ATP,E,1.4655383825302124,?,Phosphorus beta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,282,HIS,NE2,CG,GLU,D,3.3712706565856934,H,Nitrogen epsilon 2,Carbon gamma
+fold_k401_atp_tub_model_0,A,20,ARG,CB,N7,ATP,E,3.434725284576416,R,Carbon beta,Nitrogen 7
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,PA,ATP,E,3.0338170528411865,?,Oxygen 1 beta,Phosphorus alpha
+fold_k401_atp_tub_model_0,F,1,ADP,O3B,O3B,ADP,F,0.0,?,Oxygen 3 beta,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,286,ARG,CD,NH2,ARG,D,3.447951555252075,R,Carbon delta,Nitrogen eta 2
+fold_k401_atp_tub_model_0,F,1,ADP,O3B,O1B,ADP,F,2.4752511978149414,?,Oxygen 3 beta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,E,1,ATP,PB,PG,ATP,E,2.867042064666748,?,Phosphorus beta,Phosphorus gamma
+fold_k401_atp_tub_model_0,A,166,LYS,N,SD,MET,D,3.4887917041778564,K,Nitrogen,Unknown
+fold_k401_atp_tub_model_0,B,99,THR,OG1,O2B,ADP,F,3.2300002574920654,T,Oxygen gamma 1,Oxygen 2 beta
+fold_k401_atp_tub_model_0,J,1,MG,MG,MG,MG,J,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,O1B,ATP,E,2.8065683841705322,?,Oxygen 3 gamma,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,205,ASN,ND2,O3B,ATP,E,2.9807538986206055,N,Nitrogen delta 2,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,387,GLN,OE1,NE,ARG,B,3.4274935722351074,Q,Oxygen epsilon 1,Nitrogen epsilon
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,PB,ADP,F,1.4653253555297852,?,Oxygen 2 beta,Phosphorus beta
+fold_k401_atp_tub_model_0,I,1,MG,MG,O3G,ATP,E,1.9069381952285767,?,Magnesium,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,A,163,HIS,ND1,OE2,GLU,D,2.761348247528076,H,Nitrogen delta 1,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,A,355,GLU,O,ND2,ASN,B,3.192664384841919,E,Oxygen,Nitrogen delta 2
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,O1A,ADP,F,3.153434991836548,?,Oxygen 2 beta,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,A,162,VAL,O,OE1,GLU,D,3.26518177986145,V,Oxygen,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,164,GLU,OE2,OG,SER,D,3.459731340408325,E,Oxygen epsilon 2,Oxygen gamma
+fold_k401_atp_tub_model_0,E,1,ATP,PB,PB,ATP,E,0.0,?,Phosphorus beta,Phosphorus beta
+fold_k401_atp_tub_model_0,A,372,GLU,CD,NH2,ARG,B,3.253779172897339,E,Carbon delta,Nitrogen eta 2
+fold_k401_atp_tub_model_0,A,286,ARG,NH2,CA,ASN,D,3.396811008453369,R,Nitrogen eta 2,Carbon alpha
+fold_k401_atp_tub_model_0,A,377,ARG,NH2,OE1,GLU,B,2.9020462036132812,R,Nitrogen eta 2,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,372,GLU,OE1,CZ,ARG,B,3.355482816696167,E,Oxygen epsilon 1,Carbon zeta
+fold_k401_atp_tub_model_0,B,97,GLY,N,O3A,ADP,F,2.767306327819824,G,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,K,1,MG,MG,OE1,GLN,D,2.730961561203003,?,Magnesium,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,377,ARG,CZ,OE1,GLU,B,3.337432861328125,R,Carbon zeta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,244,LYS,CG,OE2,GLU,C,3.137517213821411,K,Carbon gamma,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,A,163,HIS,CA,OE1,GLU,D,3.4148600101470947,H,Carbon alpha,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,99,THR,OG1,O1B,ATP,E,2.937647819519043,T,Oxygen gamma 1,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,377,ARG,NH1,O,ILE,B,3.3747429847717285,R,Nitrogen eta 1,Oxygen
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O1A,ATP,E,3.3814165592193604,?,Phosphorus beta,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,O3A,ADP,F,2.4722516536712646,?,Oxygen 2 beta,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O3G,ATP,E,2.8065683841705322,?,Oxygen 1 beta,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,PG,ATP,E,3.2138710021972656,?,Oxygen 1 beta,Phosphorus gamma
+fold_k401_atp_tub_model_0,A,100,HIS,CB,O2A,ATP,E,3.471486806869507,H,Carbon beta,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,A,348,TRP,CB,CB,TRP,B,3.333224058151245,W,Carbon beta,Carbon beta
+fold_k401_atp_tub_model_0,A,377,ARG,NE,OE1,GLN,B,3.4247794151306152,R,Nitrogen epsilon,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O2G,ATP,E,3.4268229007720947,?,Phosphorus beta,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,PG,ATP,E,1.4854177236557007,?,Oxygen 3 gamma,Phosphorus gamma
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,MG,MG,L,2.3110697269439697,?,Oxygen 2 beta,Magnesium
+fold_k401_atp_tub_model_0,B,96,SER,C,O1B,ADP,F,3.3873724937438965,S,Carbon,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,208,SER,OG,O1G,ATP,E,3.038510322570801,S,Oxygen gamma,Oxygen 1 gamma
+fold_k401_atp_tub_model_0,A,355,GLU,CD,ND2,ASN,B,3.3255505561828613,E,Carbon delta,Nitrogen delta 2
+fold_k401_atp_tub_model_0,B,21,PRO,CG,N1,ADP,F,3.398099899291992,P,Carbon gamma,Nitrogen 1
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,OG,SER,A,3.168142795562744,?,Oxygen 3 gamma,Oxygen gamma
+fold_k401_atp_tub_model_0,A,377,ARG,NH2,N,ILE,B,3.2379820346832275,R,Nitrogen eta 2,Nitrogen
+fold_k401_atp_tub_model_0,A,259,LYS,CB,O,GLY,C,3.482187509536743,K,Carbon beta,Oxygen
+fold_k401_atp_tub_model_0,A,286,ARG,NE,OD2,ASP,D,2.5713751316070557,R,Nitrogen epsilon,Oxygen delta 2
+fold_k401_atp_tub_model_0,F,1,ADP,PB,O1B,ADP,F,1.488878607749939,?,Phosphorus beta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,346,GLU,OE2,NZ,LYS,B,2.8588788509368896,E,Oxygen epsilon 2,Nitrogen zeta
+fold_k401_atp_tub_model_0,A,244,LYS,NZ,CD,GLU,C,3.4664785861968994,K,Nitrogen zeta,Carbon delta
+fold_k401_atp_tub_model_0,A,355,GLU,CG,ND2,ASN,B,3.1369144916534424,E,Carbon gamma,Nitrogen delta 2
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,O2A,ADP,F,3.210479974746704,?,Oxygen 2 beta,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,A,286,ARG,NH1,OD1,ASN,D,3.292337417602539,R,Nitrogen eta 1,Oxygen delta 1
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O3A,ATP,E,1.5971918106079102,?,Phosphorus beta,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,F,1,ADP,O3B,O3A,ADP,F,2.4573731422424316,?,Oxygen 3 beta,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,A,359,ASN,CG,OD1,ASN,B,3.051142692565918,N,Carbon gamma,Oxygen delta 1
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O2B,ATP,E,1.5009196996688843,?,Phosphorus beta,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,166,LYS,NZ,OE1,GLU,B,2.758011817932129,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,359,ASN,CA,OD1,ASN,B,3.2471401691436768,N,Carbon alpha,Oxygen delta 1
+fold_k401_atp_tub_model_0,A,387,GLN,OE1,CD,ARG,B,3.379004955291748,Q,Oxygen epsilon 1,Carbon delta
+fold_k401_atp_tub_model_0,E,1,ATP,PG,O3B,ATP,E,1.6000757217407227,?,Phosphorus gamma,Oxygen 3 beta
+fold_k401_atp_tub_model_0,E,1,ATP,PG,OG1,THR,A,3.4509520530700684,?,Phosphorus gamma,Oxygen gamma 1
+fold_k401_atp_tub_model_0,E,1,ATP,PB,O3G,ATP,E,3.1776793003082275,?,Phosphorus beta,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,A,286,ARG,NE,OD1,ASN,D,3.2618958950042725,R,Nitrogen epsilon,Oxygen delta 1
+fold_k401_atp_tub_model_0,A,95,SER,CA,O3B,ATP,E,3.297546625137329,S,Carbon alpha,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,286,ARG,NH2,OD2,ASP,D,3.037794351577759,R,Nitrogen eta 2,Oxygen delta 2
+fold_k401_atp_tub_model_0,A,348,TRP,CZ3,CD1,TYR,B,3.4154133796691895,W,Unknown,Carbon delta 1
+fold_k401_atp_tub_model_0,A,388,ILE,N,NH2,ARG,B,3.1489553451538086,I,Nitrogen,Nitrogen eta 2
+fold_k401_atp_tub_model_0,A,259,LYS,NZ,OG1,THR,C,3.3010151386260986,K,Nitrogen zeta,Oxygen gamma 1
+fold_k401_atp_tub_model_0,F,1,ADP,PB,PB,ADP,F,0.0,?,Phosphorus beta,Phosphorus beta
+fold_k401_atp_tub_model_0,B,20,ARG,CB,N7,ADP,F,3.146153450012207,R,Carbon beta,Nitrogen 7
+fold_k401_atp_tub_model_0,B,96,SER,N,O3A,ADP,F,3.4497203826904297,S,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,F,1,ADP,O3B,MG,MG,L,3.3105459213256836,?,Oxygen 3 beta,Magnesium
+fold_k401_atp_tub_model_0,A,209,SER,CB,MG,MG,I,3.2176055908203125,S,Carbon beta,Magnesium
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,CB,SER,A,3.303917646408081,?,Oxygen 3 gamma,Carbon beta
+fold_k401_atp_tub_model_0,A,369,LEU,O,CD1,LEU,B,3.4338440895080566,L,Oxygen,Carbon delta 1
+fold_k401_atp_tub_model_0,A,359,ASN,ND2,CD,GLU,B,3.2807281017303467,N,Nitrogen delta 2,Carbon delta
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,MG,MG,I,2.165005683898926,?,Oxygen 1 beta,Magnesium
+fold_k401_atp_tub_model_0,A,98,LYS,NZ,O2G,ATP,E,2.797912359237671,K,Nitrogen zeta,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,A,205,ASN,ND2,O1G,ATP,E,3.087817430496216,N,Nitrogen delta 2,Oxygen 1 gamma
+fold_k401_atp_tub_model_0,B,96,SER,OG,O1B,ADP,F,3.1626882553100586,S,Oxygen gamma,Oxygen 1 beta
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,O3B,ADP,F,2.4665675163269043,?,Oxygen 2 beta,Oxygen 3 beta
+fold_k401_atp_tub_model_0,K,1,MG,MG,MG,MG,K,0.0,?,Magnesium,Magnesium
+fold_k401_atp_tub_model_0,B,97,GLY,N,O1B,ADP,F,2.62361478805542,G,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_model_0,F,1,ADP,PB,MG,MG,L,3.305471181869507,?,Phosphorus beta,Magnesium
+fold_k401_atp_tub_model_0,A,95,SER,C,O3A,ATP,E,3.4330618381500244,S,Carbon,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,A,286,ARG,NH2,N,ASN,D,3.298919916152954,R,Nitrogen eta 2,Nitrogen
+fold_k401_atp_tub_model_0,B,97,GLY,N,PB,ADP,F,3.33189058303833,G,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_model_0,A,250,ALA,O,NZ,LYS,C,2.683391809463501,A,Oxygen,Nitrogen zeta
+fold_k401_atp_tub_model_0,B,97,GLY,CA,O3A,ADP,F,3.212803840637207,G,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,A,345,ALA,CB,O,LEU,B,3.4562363624572754,A,Carbon beta,Oxygen
+fold_k401_atp_tub_model_0,F,1,ADP,PB,O1A,ADP,F,3.445098876953125,?,Phosphorus beta,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,A,365,LYS,NZ,OE1,GLU,B,3.3813118934631348,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,96,SER,N,O2B,ATP,E,3.212301731109619,S,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,209,SER,N,O3G,ATP,E,3.0103964805603027,S,Nitrogen,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,A,266,SER,OG,OE2,GLU,C,2.5945560932159424,S,Oxygen gamma,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,A,372,GLU,OE2,NH2,ARG,B,2.857144355773926,E,Oxygen epsilon 2,Nitrogen eta 2
+fold_k401_atp_tub_model_0,A,97,GLY,N,O3A,ATP,E,3.220094919204712,G,Nitrogen,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,B,95,SER,C,O3A,ADP,F,3.227919578552246,S,Carbon,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,A,97,GLY,CA,O2A,ATP,E,3.3356926441192627,G,Carbon alpha,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,B,96,SER,N,O1B,ADP,F,2.897826671600342,S,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,O3B,ATP,E,2.4817492961883545,?,Oxygen 3 gamma,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,377,ARG,NH2,CB,GLN,B,3.4668333530426025,R,Nitrogen eta 2,Carbon beta
+fold_k401_atp_tub_model_0,A,377,ARG,NH2,O,ILE,B,2.947216272354126,R,Nitrogen eta 2,Oxygen
+fold_k401_atp_tub_model_0,F,1,ADP,PB,O2A,ADP,F,3.3189079761505127,?,Phosphorus beta,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,B,97,GLY,CA,O1B,ADP,F,3.4828968048095703,G,Carbon alpha,Oxygen 1 beta
+fold_k401_atp_tub_model_0,F,1,ADP,PB,O3B,ADP,F,1.4865003824234009,?,Phosphorus beta,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,21,PRO,CD,C6,ATP,E,3.4060490131378174,P,Carbon delta,Carbon 6
+fold_k401_atp_tub_model_0,A,286,ARG,CD,OD1,ASN,D,2.9815969467163086,R,Carbon delta,Oxygen delta 1
+fold_k401_atp_tub_model_0,I,1,MG,MG,O1B,ATP,E,2.165005683898926,?,Magnesium,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,359,ASN,OD1,CD1,LEU,B,3.0397701263427734,N,Oxygen delta 1,Carbon delta 1
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,CB,THR,A,3.424804925918579,?,Oxygen 1 beta,Carbon beta
+fold_k401_atp_tub_model_0,I,1,MG,MG,CB,THR,A,3.229156970977783,?,Magnesium,Carbon beta
+fold_k401_atp_tub_model_0,A,159,ASN,ND2,OE1,GLU,D,2.67405366897583,N,Nitrogen delta 2,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,I,1,MG,MG,PG,ATP,E,3.2109994888305664,?,Magnesium,Phosphorus gamma
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,PB,ATP,E,3.1776793003082275,?,Oxygen 3 gamma,Phosphorus beta
+fold_k401_atp_tub_model_0,B,205,ASN,ND2,O3B,ADP,F,3.1215922832489014,N,Nitrogen delta 2,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,388,ILE,O,NH1,ARG,B,3.2794597148895264,I,Oxygen,Nitrogen eta 1
+fold_k401_atp_tub_model_0,B,95,SER,N,PB,ADP,F,3.4831881523132324,S,Nitrogen,Phosphorus beta
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,O2G,ATP,E,2.489741563796997,?,Oxygen 3 gamma,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,A,359,ASN,OD1,CA,ASN,B,3.3207345008850098,N,Oxygen delta 1,Carbon alpha
+fold_k401_atp_tub_model_0,A,359,ASN,OD1,CG,ASN,B,3.1324970722198486,N,Oxygen delta 1,Carbon gamma
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,O3G,ATP,E,0.0,?,Oxygen 3 gamma,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,A,209,SER,CB,O3G,ATP,E,3.303917646408081,S,Carbon beta,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,A,352,TYR,CE2,CG,GLU,B,3.489515542984009,Y,Carbon epsilon 2,Carbon gamma
+fold_k401_atp_tub_model_0,B,97,GLY,C,O1A,ADP,F,3.3185665607452393,G,Carbon,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,A,266,SER,CB,OE2,GLU,C,3.4125864505767822,S,Carbon beta,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,A,251,GLU,CG,NZ,LYS,C,3.2310068607330322,E,Carbon gamma,Nitrogen zeta
+fold_k401_atp_tub_model_0,E,1,ATP,PG,PB,ATP,E,2.867042064666748,?,Phosphorus gamma,Phosphorus beta
+fold_k401_atp_tub_model_0,A,205,ASN,ND2,O1A,ATP,E,3.0129473209381104,N,Nitrogen delta 2,Oxygen 1 alpha
+fold_k401_atp_tub_model_0,A,259,LYS,CE,OG1,THR,C,3.4213931560516357,K,Carbon epsilon,Oxygen gamma 1
+fold_k401_atp_tub_model_0,A,372,GLU,OE1,NE,ARG,B,2.987658977508545,E,Oxygen epsilon 1,Nitrogen epsilon
+fold_k401_atp_tub_model_0,A,262,ASN,O,CG1,VAL,C,3.397102117538452,N,Oxygen,Unknown
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O2A,ATP,E,3.097303628921509,?,Oxygen 1 beta,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,A,355,GLU,OE1,ND2,ASN,B,3.1530590057373047,E,Oxygen epsilon 1,Nitrogen delta 2
+fold_k401_atp_tub_model_0,A,286,ARG,NH1,CG,ASN,D,3.1334547996520996,R,Nitrogen eta 1,Carbon gamma
+fold_k401_atp_tub_model_0,E,1,ATP,PG,PG,ATP,E,0.0,?,Phosphorus gamma,Phosphorus gamma
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,N,SER,A,3.0103964805603027,?,Oxygen 3 gamma,Nitrogen
+fold_k401_atp_tub_model_0,A,349,LYS,NZ,OD1,ASN,B,3.4864566326141357,K,Nitrogen zeta,Oxygen delta 1
+fold_k401_atp_tub_model_0,E,1,ATP,PG,O3G,ATP,E,1.4854177236557007,?,Phosphorus gamma,Oxygen 3 gamma
+fold_k401_atp_tub_model_0,A,244,LYS,NZ,OE2,GLU,C,2.4766428470611572,K,Nitrogen zeta,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,E,1,ATP,PG,O2G,ATP,E,1.5058099031448364,?,Phosphorus gamma,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,A,282,HIS,ND1,O,ASP,D,3.4965591430664062,H,Nitrogen delta 1,Oxygen
+fold_k401_atp_tub_model_0,A,286,ARG,CB,NH1,ARG,D,3.250662088394165,R,Carbon beta,Nitrogen eta 1
+fold_k401_atp_tub_model_0,A,98,LYS,CE,O2G,ATP,E,3.4385974407196045,K,Carbon epsilon,Oxygen 2 gamma
+fold_k401_atp_tub_model_0,L,1,MG,MG,O2B,ADP,F,2.3110697269439697,?,Magnesium,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,208,SER,CA,O1G,ATP,E,3.339392900466919,S,Carbon alpha,Oxygen 1 gamma
+fold_k401_atp_tub_model_0,B,21,PRO,CD,C2,ADP,F,3.3860628604888916,P,Carbon delta,Carbon 2
+fold_k401_atp_tub_model_0,B,95,SER,CA,O3B,ADP,F,2.9316370487213135,S,Carbon alpha,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,209,SER,OG,MG,MG,I,2.33587908744812,S,Oxygen gamma,Magnesium
+fold_k401_atp_tub_model_0,A,377,ARG,CD,OE1,GLN,B,3.3762638568878174,R,Carbon delta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,B,98,LYS,N,O1B,ADP,F,2.7690200805664062,K,Nitrogen,Oxygen 1 beta
+fold_k401_atp_tub_model_0,B,98,LYS,NZ,O1B,ADP,F,3.2847108840942383,K,Nitrogen zeta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,A,359,ASN,N,OD1,ASN,B,3.2809691429138184,N,Nitrogen,Oxygen delta 1
+fold_k401_atp_tub_model_0,A,387,GLN,CB,NH2,ARG,B,3.439270257949829,Q,Carbon beta,Nitrogen eta 2
+fold_k401_atp_tub_model_0,A,359,ASN,ND2,O,GLU,B,3.1001601219177246,N,Nitrogen delta 2,Oxygen
+fold_k401_atp_tub_model_0,B,98,LYS,N,O2B,ADP,F,3.3361761569976807,K,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,373,LEU,CD1,O,LEU,B,3.4585187435150146,L,Carbon delta 1,Oxygen
+fold_k401_atp_tub_model_0,A,373,LEU,CD2,OE1,GLU,B,2.870945453643799,L,Carbon delta 2,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,B,20,ARG,CB,C5,ADP,F,3.399850368499756,R,Carbon beta,Carbon 5
+fold_k401_atp_tub_model_0,B,94,THR,C,O3B,ADP,F,3.476888418197632,T,Carbon,Oxygen 3 beta
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O2B,ATP,E,2.5215253829956055,?,Oxygen 1 beta,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,244,LYS,CE,OE2,GLU,C,3.134481906890869,K,Carbon epsilon,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,I,1,MG,MG,OG,SER,A,2.33587908744812,?,Magnesium,Oxygen gamma
+fold_k401_atp_tub_model_0,B,99,THR,OG1,MG,MG,L,2.558845281600952,T,Oxygen gamma 1,Magnesium
+fold_k401_atp_tub_model_0,A,348,TRP,CD1,O,ALA,B,3.332430362701416,W,Carbon delta 1,Oxygen
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,N,THR,A,3.1761107444763184,?,Oxygen 1 beta,Nitrogen
+fold_k401_atp_tub_model_0,A,359,ASN,OD1,OD1,ASN,B,2.4870808124542236,N,Oxygen delta 1,Oxygen delta 1
+fold_k401_atp_tub_model_0,A,259,LYS,NZ,CG2,THR,C,3.3399693965911865,K,Nitrogen zeta,Carbon gamma 2
+fold_k401_atp_tub_model_0,I,1,MG,MG,PB,ATP,E,3.341830253601074,?,Magnesium,Phosphorus beta
+fold_k401_atp_tub_model_0,A,259,LYS,CD,O,GLY,C,3.3138387203216553,K,Carbon delta,Oxygen
+fold_k401_atp_tub_model_0,A,286,ARG,CZ,OD1,ASN,D,3.4004485607147217,R,Carbon zeta,Oxygen delta 1
+fold_k401_atp_tub_model_0,I,1,MG,MG,OG1,THR,A,2.106107234954834,?,Magnesium,Oxygen gamma 1
+fold_k401_atp_tub_model_0,A,287,ASP,OD1,CD,ARG,D,3.1389050483703613,D,Oxygen delta 1,Carbon delta
+fold_k401_atp_tub_model_0,A,372,GLU,OE1,CD2,LEU,B,2.9116551876068115,E,Oxygen epsilon 1,Carbon delta 2
+fold_k401_atp_tub_model_0,L,1,MG,MG,PB,ADP,F,3.305471181869507,?,Magnesium,Phosphorus beta
+fold_k401_atp_tub_model_0,B,95,SER,CA,O3A,ADP,F,3.2949700355529785,S,Carbon alpha,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,A,166,LYS,NZ,CD,GLU,B,3.4731662273406982,K,Nitrogen zeta,Carbon delta
+fold_k401_atp_tub_model_0,A,370,GLU,OE1,NZ,LYS,B,3.189166784286499,E,Oxygen epsilon 1,Nitrogen zeta
+fold_k401_atp_tub_model_0,A,282,HIS,CB,OE1,GLN,D,3.1510539054870605,H,Carbon beta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,359,ASN,OD1,N,ASN,B,3.3292739391326904,N,Oxygen delta 1,Nitrogen
+fold_k401_atp_tub_model_0,B,21,PRO,CD,N1,ADP,F,2.9832005500793457,P,Carbon delta,Nitrogen 1
+fold_k401_atp_tub_model_0,A,100,HIS,N,O2A,ATP,E,3.0478720664978027,H,Nitrogen,Oxygen 2 alpha
+fold_k401_atp_tub_model_0,A,346,GLU,OE1,CD,LYS,B,3.0606181621551514,E,Oxygen epsilon 1,Carbon delta
+fold_k401_atp_tub_model_0,A,366,VAL,CG2,CG2,VAL,B,3.478288173675537,V,Carbon gamma 2,Carbon gamma 2
+fold_k401_atp_tub_model_0,A,345,ALA,O,CD1,TRP,B,3.2241218090057373,A,Oxygen,Carbon delta 1
+fold_k401_atp_tub_model_0,A,372,GLU,CD,CD2,LEU,B,3.325751543045044,E,Carbon delta,Carbon delta 2
+fold_k401_atp_tub_model_0,B,95,SER,N,O3B,ADP,F,2.420206308364868,S,Nitrogen,Oxygen 3 beta
+fold_k401_atp_tub_model_0,B,21,PRO,CD,C6,ADP,F,3.180424451828003,P,Carbon delta,Carbon 6
+fold_k401_atp_tub_model_0,F,1,ADP,O3B,PB,ADP,F,1.4865003824234009,?,Oxygen 3 beta,Phosphorus beta
+fold_k401_atp_tub_model_0,E,1,ATP,O3G,MG,MG,I,1.9069381952285767,?,Oxygen 3 gamma,Magnesium
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O3B,ATP,E,2.514702796936035,?,Oxygen 1 beta,Oxygen 3 beta
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,PA,ADP,F,3.019725799560547,?,Oxygen 2 beta,Phosphorus alpha
+fold_k401_atp_tub_model_0,A,359,ASN,CG,OE2,GLU,B,3.2321629524230957,N,Carbon gamma,Oxygen epsilon 2
+fold_k401_atp_tub_model_0,A,167,ASN,OD1,NZ,LYS,B,3.1947500705718994,N,Oxygen delta 1,Nitrogen zeta
+fold_k401_atp_tub_model_0,A,51,LYS,NZ,OE1,GLU,D,3.0502734184265137,K,Nitrogen zeta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,282,HIS,NE2,CB,GLU,D,3.429452896118164,H,Nitrogen epsilon 2,Carbon beta
+fold_k401_atp_tub_model_0,A,362,LEU,CD1,OD1,ASN,B,3.115278959274292,L,Carbon delta 1,Oxygen delta 1
+fold_k401_atp_tub_model_0,B,99,THR,N,O2B,ADP,F,3.118966817855835,T,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,286,ARG,CD,NH1,ARG,D,3.472484588623047,R,Carbon delta,Nitrogen eta 1
+fold_k401_atp_tub_model_0,E,1,ATP,PG,O1G,ATP,E,1.4977705478668213,?,Phosphorus gamma,Oxygen 1 gamma
+fold_k401_atp_tub_model_0,L,1,MG,MG,O3B,ADP,F,3.3105459213256836,?,Magnesium,Oxygen 3 beta
+fold_k401_atp_tub_model_0,A,286,ARG,NH1,CB,ASN,D,3.2939369678497314,R,Nitrogen eta 1,Carbon beta
+fold_k401_atp_tub_model_0,A,388,ILE,O,NH2,ARG,B,2.9102673530578613,I,Oxygen,Nitrogen eta 2
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,O1B,ADP,F,2.466926097869873,?,Oxygen 2 beta,Oxygen 1 beta
+fold_k401_atp_tub_model_0,F,1,ADP,O2B,O2B,ADP,F,0.0,?,Oxygen 2 beta,Oxygen 2 beta
+fold_k401_atp_tub_model_0,A,259,LYS,CG,O,GLY,C,3.4483792781829834,K,Carbon gamma,Oxygen
+fold_k401_atp_tub_model_0,A,94,THR,OG1,O1G,ATP,E,2.43408203125,T,Oxygen gamma 1,Oxygen 1 gamma
+fold_k401_atp_tub_model_0,A,377,ARG,NE,OE1,GLU,B,2.9549245834350586,R,Nitrogen epsilon,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,242,SER,CB,OE1,GLU,C,3.3670151233673096,S,Carbon beta,Oxygen epsilon 1
+fold_k401_atp_tub_model_0,A,98,LYS,N,O2B,ATP,E,2.917088031768799,K,Nitrogen,Oxygen 2 beta
+fold_k401_atp_tub_model_0,E,1,ATP,O1B,O3A,ATP,E,2.504863977432251,?,Oxygen 1 beta,Oxygen 3 alpha
+fold_k401_atp_tub_model_0,E,1,ATP,PB,PA,ATP,E,2.8358922004699707,?,Phosphorus beta,Phosphorus alpha
