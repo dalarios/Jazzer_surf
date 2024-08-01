@@ -130,7 +130,7 @@ def process_folder(folder_path, threshold=5.0):
     df.to_csv(os.path.join(folder_path, "interactions_all_files.csv"), index=False)
     print(f"DataFrame has been saved to interactions_all_files.csv")
 
-folder_path = "../3d_predictions/chimeras/motor2x_ATP2x_Mg2x_abTub/"
+folder_path = "/Users/jazzeruncal/git/Jazzer_surf/3d_predictions/same_seed"
 
 # Run the function for a folder with a threshold
-process_folder(folder_path, threshold=3.0)  # Replace with the path to your folder containing PDB or CIF files
+process_folder(folder_path, threshold=3.5)  # Replace with the path to your folder containing PDB or CIF files
