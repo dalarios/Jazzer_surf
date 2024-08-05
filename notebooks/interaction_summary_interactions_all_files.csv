@@ -1,0 +1,329 @@
+file,interacting_chain,interacting_atom,residue_number,amino_acid,distance (angstroms),interacting_resi_oneletter,interacting_resinumber
+fold_c_atp_tub_seed1_model_0,ATP,N1,21,P,3.457723379135132,,1
+fold_c_atp_tub_seed1_model_0,ATP,O2G,94,T,2.4436142444610596,,1
+fold_c_atp_tub_seed1_model_0,ATP,O3B,95,S,2.823654890060425,,1
+fold_c_atp_tub_seed1_model_0,ATP,O1B,96,S,3.3223249912261963,,1
+fold_c_atp_tub_seed1_model_0,ATP,O1B,97,G,3.097536087036133,,1
+fold_c_atp_tub_seed1_model_0,ATP,O3G,98,K,2.879331588745117,,1
+fold_c_atp_tub_seed1_model_0,ATP,O2B,99,T,2.799541711807251,,1
+fold_c_atp_tub_seed1_model_0,ATP,O1A,100,H,2.962357997894287,,1
+fold_c_atp_tub_seed1_model_0,ATP,O3B,205,N,2.9935591220855713,,1
+fold_c_atp_tub_seed1_model_0,ATP,O2G,208,S,2.7670114040374756,,1
+fold_c_atp_tub_seed1_model_0,ATP,O1G,209,S,2.790931224822998,,1
+fold_c_atp_tub_seed1_model_0,ATP,O3G,241,G,2.9767863750457764,,1
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,OE1,242,S,3.2220075130462646,E,414
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,OE1,244,K,2.5479209423065186,E,420
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,O,245,I,2.961440086364746,G,412
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,O,259,K,3.272054433822632,G,410
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,CG1,262,N,3.429266929626465,V,409
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,CG1,263,K,3.3820230960845947,V,409
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,OE2,266,S,2.7096283435821533,E,415
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,OE1,318,A,2.7859344482421875,E,420
+fold_c_atp_tub_seed1_model_0,alpha-tubulin,OE1,325,R,3.011375188827514,E,423
+fold_c_atp_tub_seed1_model_0,beta-tubulin,OE1,148,K,2.9638772010803223,E,157
+fold_c_atp_tub_seed1_model_0,beta-tubulin,OE1,159,N,3.166810989379883,E,157
+fold_c_atp_tub_seed1_model_0,beta-tubulin,OE2,163,H,2.7821812629699707,E,410
+fold_c_atp_tub_seed1_model_0,beta-tubulin,OE1,164,E,2.793105363845825,E,410
+fold_c_atp_tub_seed1_model_0,beta-tubulin,CE,166,K,3.454381227493286,M,406
+fold_c_atp_tub_seed1_model_0,beta-tubulin,OE1,282,H,2.882333993911743,Q,424
+fold_c_atp_tub_seed1_model_0,beta-tubulin,OD2,286,R,2.4885451793670654,D,417
+fold_c_atp_tub_seed1_model_0,beta-tubulin,CD,287,D,3.194092035293579,R,262
+fold_c_atp_tub_seed1_model_0,kinesin B,OE1,166,K,2.810300827026367,E,346
+fold_c_atp_tub_seed1_model_0,kinesin B,CD1,345,A,3.4046149253845215,W,348
+fold_c_atp_tub_seed1_model_0,kinesin B,CD1,348,W,3.3196117877960205,Y,352
+fold_c_atp_tub_seed1_model_0,kinesin B,CG,352,Y,3.4200756549835205,E,355
+fold_c_atp_tub_seed1_model_0,kinesin B,ND2,355,E,2.1327757835388184,N,359
+fold_c_atp_tub_seed1_model_0,kinesin B,ND2,358,K,3.4232633113861084,N,359
+fold_c_atp_tub_seed1_model_0,kinesin B,OE2,359,N,2.092862606048584,E,355
+fold_c_atp_tub_seed1_model_0,kinesin B,OD1,362,L,2.848017692565918,N,359
+fold_c_atp_tub_seed1_model_0,kinesin B,OE1,365,K,3.258519172668457,E,370
+fold_c_atp_tub_seed1_model_0,kinesin B,CD1,366,V,2.8572001457214355,L,393
+fold_c_atp_tub_seed1_model_0,kinesin B,CD1,369,L,3.449855089187622,L,373
+fold_c_atp_tub_seed1_model_0,kinesin B,CD1,370,E,3.2836923599243164,L,393
+fold_c_atp_tub_seed1_model_0,kinesin B,CD2,372,E,2.8547213077545166,L,373
+fold_c_atp_tub_seed1_model_0,kinesin B,OE1,373,L,2.8381266593933105,E,372
+fold_c_atp_tub_seed1_model_0,kinesin B,OE2,377,R,2.828540325164795,E,372
+fold_c_atp_tub_seed1_model_0,kinesin B,NH2,387,Q,3.4705941677093506,R,377
+fold_c_atp_tub_seed1_model_0,kinesin B,NH2,388,I,2.914373874664306,R,377
+fold_c_atp_tub_seed1_model_0,kinesin B,NH1,390,M,3.3847358226776123,R,377
+fold_c_atp_tub_seed1_model_0,kinesin B,CG1,393,L,2.8476345539093018,V,366
+fold_e_atp_tub_seed1_model_0,ATP,O2G,94,T,2.5287439823150635,,1
+fold_e_atp_tub_seed1_model_0,ATP,O3B,95,S,2.865710973739624,,1
+fold_e_atp_tub_seed1_model_0,ATP,O1B,96,S,3.3670592308044434,,1
+fold_e_atp_tub_seed1_model_0,ATP,O1B,97,G,3.0916802883148193,,1
+fold_e_atp_tub_seed1_model_0,ATP,O1G,98,K,2.8252956867218018,,1
+fold_e_atp_tub_seed1_model_0,ATP,O2B,99,T,2.6309244632720947,,1
+fold_e_atp_tub_seed1_model_0,ATP,O1A,100,H,2.8375065326690674,,1
+fold_e_atp_tub_seed1_model_0,ATP,O3B,205,N,3.0233163833618164,,1
+fold_e_atp_tub_seed1_model_0,ATP,O2G,208,S,2.9107367992401123,,1
+fold_e_atp_tub_seed1_model_0,ATP,O3G,209,S,2.781641960144043,,1
+fold_e_atp_tub_seed1_model_0,ATP,O1G,241,G,2.883500099182129,,1
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,OE1,242,S,3.461801052093506,E,414
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,OE2,244,K,2.546417474746704,E,420
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,O,245,V,3.226733684539795,G,412
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,NZ,250,A,3.4412996768951416,K,112
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,NZ,251,E,3.075506687164306,K,112
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,O,259,K,3.2275352478027344,G,410
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,CG1,262,N,3.4368579387664795,V,409
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,CG1,263,K,3.3619537353515625,V,409
+fold_e_atp_tub_seed1_model_0,alpha-tubulin,OE2,266,S,2.4706685543060303,E,415
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE2,51,K,3.184419631958008,E,437
+fold_e_atp_tub_seed1_model_0,beta-tubulin,CG,148,K,2.799797296524048,E,157
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE1,159,N,3.105865240097046,E,157
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE2,163,H,2.8342108726501465,E,410
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE1,164,E,2.5280559062957764,E,410
+fold_e_atp_tub_seed1_model_0,beta-tubulin,CE,165,D,3.1794562339782715,M,406
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE1,280,K,3.4978063106536865,Q,424
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE1,282,H,2.862626314163208,Q,424
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OD2,286,R,2.5521509647369385,D,417
+fold_e_atp_tub_seed1_model_0,beta-tubulin,CD,287,D,3.176405906677246,R,262
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE2,328,R,2.7109060287475586,E,437
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OE1,526,N,2.630460023880005,Q,94
+fold_e_atp_tub_seed1_model_0,beta-tubulin,NE2,530,S,2.8594658374786377,Q,94
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OD2,533,K,2.4675843715667725,D,74
+fold_e_atp_tub_seed1_model_0,beta-tubulin,O,534,L,2.908067464828491,P,87
+fold_e_atp_tub_seed1_model_0,beta-tubulin,CG,537,E,2.2084157466888428,R,77
+fold_e_atp_tub_seed1_model_0,beta-tubulin,OD1,538,K,2.6332504749298096,D,88
+fold_e_atp_tub_seed1_model_0,beta-tubulin,O,541,F,3.27166748046875,Q,83
+fold_e_atp_tub_seed1_model_0,beta-tubulin,NZ,545,E,2.722621440887451,K,58
+fold_e_atp_tub_seed1_model_0,beta-tubulin,CE,548,L,3.199802875518799,K,58
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,343,R,3.4465842247009277,L,352
+fold_e_atp_tub_seed1_model_0,kinesin B,CB,346,A,2.8396999835968018,N,434
+fold_e_atp_tub_seed1_model_0,kinesin B,ND2,350,I,2.8876588344573975,N,436
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,358,E,2.8093278408050537,K,363
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,362,L,3.2901999950408936,I,366
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,363,K,2.733107089996338,E,358
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,365,Y,3.0287373065948486,E,370
+fold_e_atp_tub_seed1_model_0,kinesin B,CG1,366,I,3.3174901008605957,I,366
+fold_e_atp_tub_seed1_model_0,kinesin B,O,369,L,3.0994670391082764,V,375
+fold_e_atp_tub_seed1_model_0,kinesin B,OH,370,E,3.1663527488708496,Y,365
+fold_e_atp_tub_seed1_model_0,kinesin B,CB,373,S,3.301920175552368,S,373
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,375,V,3.102061033248902,L,369
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,410,S,2.769427537918091,Y,127
+fold_e_atp_tub_seed1_model_0,kinesin B,CB,412,L,2.677791118621826,S,181
+fold_e_atp_tub_seed1_model_0,kinesin B,C,414,N,1.9963030815124512,V,180
+fold_e_atp_tub_seed1_model_0,kinesin B,CE2,417,N,3.1703574657440186,F,179
+fold_e_atp_tub_seed1_model_0,kinesin B,ND2,419,T,3.464461326599121,N,502
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,442,T,3.318758964538574,K,462
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,444,V,2.7065441608428955,L,455
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,447,P,2.5183475017547607,D,452
+fold_e_atp_tub_seed1_model_0,kinesin B,OD2,448,T,2.9993491172790527,D,452
+fold_e_atp_tub_seed1_model_0,kinesin B,OD2,449,S,2.9479453563690186,D,452
+fold_e_atp_tub_seed1_model_0,kinesin B,CA,452,D,2.41400408744812,P,447
+fold_e_atp_tub_seed1_model_0,kinesin B,CG1,455,L,2.279536247253418,V,444
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,462,K,2.956246852874756,E,467
+fold_e_atp_tub_seed1_model_0,kinesin B,SG,463,C,3.069061517715454,C,463
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,466,L,3.3601837158203125,L,470
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,467,E,2.751376152038574,K,462
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,469,Q,3.4237070083618164,L,470
+fold_e_atp_tub_seed1_model_0,kinesin B,O,470,L,3.160676956176758,L,466
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,473,K,2.329824686050415,E,474
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,474,E,2.135064601898194,K,473
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,476,E,2.602710247039795,K,477
+fold_e_atp_tub_seed1_model_0,kinesin B,OE2,477,K,2.494206666946411,E,476
+fold_e_atp_tub_seed1_model_0,kinesin B,NH2,478,K,1.655656099319458,R,168
+fold_e_atp_tub_seed1_model_0,kinesin B,NH2,479,E,2.555856943130493,R,168
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,480,I,2.7976651191711426,L,484
+fold_e_atp_tub_seed1_model_0,kinesin B,OE2,482,E,2.210639715194702,E,164
+fold_e_atp_tub_seed1_model_0,kinesin B,O,483,Q,1.524584174156189,K,166
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,484,L,2.627446413040161,Q,487
+fold_e_atp_tub_seed1_model_0,kinesin B,O,486,Q,0.4641919434070587,E,164
+fold_e_atp_tub_seed1_model_0,kinesin B,O,487,Q,2.7171730995178223,L,484
+fold_e_atp_tub_seed1_model_0,kinesin B,NE2,488,Q,2.815976142883301,Q,487
+fold_e_atp_tub_seed1_model_0,kinesin B,ND1,489,E,3.0130646228790283,H,163
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,490,Q,3.2626805305480957,I,491
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,491,I,2.6778368949890137,K,494
+fold_e_atp_tub_seed1_model_0,kinesin B,CE,493,D,2.550476551055908,K,173
+fold_e_atp_tub_seed1_model_0,kinesin B,OD2,494,K,2.349717140197754,D,495
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,495,D,2.5176098346710205,K,494
+fold_e_atp_tub_seed1_model_0,kinesin B,OE2,498,I,3.183561086654663,E,497
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,501,L,2.9373767375946045,I,505
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,502,N,2.9796030521392822,L,501
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,505,I,2.7538654804229736,L,501
+fold_e_atp_tub_seed1_model_0,kinesin B,CB,508,S,2.8576104640960693,S,508
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,511,I,3.421818971633911,N,512
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,512,N,3.193009614944458,I,511
+fold_e_atp_tub_seed1_model_0,kinesin B,CE2,514,L,3.2460222244262695,Y,515
+fold_e_atp_tub_seed1_model_0,kinesin B,O,515,Y,3.2209901809692383,L,514
+fold_e_atp_tub_seed1_model_0,kinesin B,OG,518,S,2.808562994003296,S,518
+fold_e_atp_tub_seed1_model_0,kinesin B,OG,519,T,3.39302134513855,S,518
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,521,E,3.377073049545288,N,522
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,522,N,2.4978554248809814,N,522
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,525,L,2.8261241912841797,N,522
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,526,N,2.6191630363464355,L,525
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,528,Q,3.477853298187256,L,529
+fold_e_atp_tub_seed1_model_0,kinesin B,N,529,L,3.194706439971924,L,529
+fold_e_atp_tub_seed1_model_0,kinesin B,CG,532,L,3.493542194366455,K,533
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,533,K,3.4650471210479736,L,532
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,535,A,3.127368211746216,L,536
+fold_e_atp_tub_seed1_model_0,kinesin B,O,536,L,3.169499158859253,A,535
+fold_e_atp_tub_seed1_model_0,kinesin B,OG,539,S,2.82503080368042,S,539
+fold_e_atp_tub_seed1_model_0,kinesin B,OG,540,R,3.165741205215454,S,539
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,543,A,2.3739094734191895,Q,546
+fold_e_atp_tub_seed1_model_0,kinesin B,O,546,Q,2.4929895401000977,A,543
+fold_e_atp_tub_seed1_model_0,kinesin B,CG1,550,I,3.4231226444244385,I,550
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,553,L,3.122178077697754,N,554
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,554,N,3.1834709644317627,L,553
+fold_e_atp_tub_seed1_model_0,kinesin B,NZ,556,E,2.756591320037842,K,561
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,557,N,2.4945485591888428,N,557
+fold_e_atp_tub_seed1_model_0,kinesin B,OD1,560,I,3.317167282104492,N,557
+fold_e_atp_tub_seed1_model_0,kinesin B,OE1,561,K,2.750396490097046,E,556
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,567,L,3.2635066509246826,I,571
+fold_e_atp_tub_seed1_model_0,kinesin B,O,570,R,2.515754222869873,L,582
+fold_e_atp_tub_seed1_model_0,kinesin B,CD2,571,I,3.4375507831573486,L,567
+fold_e_atp_tub_seed1_model_0,kinesin B,OD2,576,D,3.370548963546753,D,576
+fold_e_atp_tub_seed1_model_0,kinesin B,CD1,579,I,2.2551543712615967,I,579
+fold_e_atp_tub_seed1_model_0,kinesin B,NH1,582,L,2.7249579429626465,R,570
+fold_h_atp_tub_seed1_model_0,ATP,O1G,87,T,2.7136809825897217,,1
+fold_h_atp_tub_seed1_model_0,ATP,O3B,88,G,2.823422431945801,,1
+fold_h_atp_tub_seed1_model_0,ATP,O1B,89,S,3.3753457069396973,,1
+fold_h_atp_tub_seed1_model_0,ATP,O1B,90,G,2.964850425720215,,1
+fold_h_atp_tub_seed1_model_0,ATP,O1B,91,K,2.674063920974731,,1
+fold_h_atp_tub_seed1_model_0,ATP,O2B,92,T,2.672137975692749,,1
+fold_h_atp_tub_seed1_model_0,ATP,O1A,93,F,2.6421751976013184,,1
+fold_h_atp_tub_seed1_model_0,ATP,O1G,201,N,3.039212703704834,,1
+fold_h_atp_tub_seed1_model_0,ATP,O1G,204,S,3.0076818466186523,,1
+fold_h_atp_tub_seed1_model_0,ATP,O3G,205,S,2.9404726028442383,,1
+fold_h_atp_tub_seed1_model_0,ATP,O2G,237,G,2.8074371814727783,,1
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,238,S,2.8748793601989746,E,414
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,240,K,2.4869065284729004,E,420
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,O,241,I,2.9714810848236084,G,412
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,O,255,K,3.2021288871765137,G,410
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,CG1,258,N,3.430851459503174,V,409
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,CG1,259,K,3.369836807250977,V,409
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE2,262,S,2.512510299682617,E,415
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,CG,266,N,3.2866287231445312,R,402
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,314,A,3.040358543395996,E,420
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,321,R,2.6851649284362793,E,423
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,144,R,2.768033504486084,E,157
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,157,K,3.047783851623535,E,407
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,158,V,2.7401652336120605,E,410
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CG,159,R,3.184271812438965,E,407
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OG,160,E,3.432516574859619,S,413
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CA,275,K,3.420228958129883,E,432
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,277,T,3.3995347023010254,Q,424
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,278,H,2.7170002460479736,Q,424
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OD2,282,R,2.4272496700286865,D,417
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CD,283,D,3.05643630027771,R,262
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE2,285,K,3.496941328048706,E,194
+fold_h_atp_tub_seed1_model_0,beta-tubulin,NH2,494,I,2.975874185562134,R,391
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CD,498,N,2.3815529346466064,R,391
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CZ,505,N,2.46383285522461,F,394
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CE1,508,N,3.2913224697113037,F,394
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CZ2,509,S,2.656165599822998,W,397
+fold_h_atp_tub_seed1_model_0,beta-tubulin,O,512,Q,2.8011043071746826,G,98
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,341,A,3.2464489936828613,L,344
+fold_h_atp_tub_seed1_model_0,kinesin B,O,344,L,3.1811676025390625,A,341
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,354,E,2.7876062393188477,K,359
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,358,L,3.2889037132263184,I,362
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,359,K,2.5041942596435547,E,354
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,361,Y,2.093987464904785,V,373
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,362,I,3.2933621406555176,I,362
+fold_h_atp_tub_seed1_model_0,kinesin B,O,365,L,2.98205304145813,V,371
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,366,E,1.9849523305892944,K,464
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,367,T,3.1734635829925537,K,464
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,368,V,2.9161553382873535,L,376
+fold_h_atp_tub_seed1_model_0,kinesin B,CB,369,S,3.067169666290283,S,369
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,370,G,2.5092685222625732,I,460
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,371,V,2.9051871299743652,L,365
+fold_h_atp_tub_seed1_model_0,kinesin B,CG,372,T,1.6073085069656372,K,464
+fold_h_atp_tub_seed1_model_0,kinesin B,CE2,373,V,3.0889830589294434,Y,361
+fold_h_atp_tub_seed1_model_0,kinesin B,O,374,S,2.8501088619232178,E,463
+fold_h_atp_tub_seed1_model_0,kinesin B,OE2,375,N,2.283984899520874,E,463
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,376,L,2.154186248779297,V,368
+fold_h_atp_tub_seed1_model_0,kinesin B,OD2,444,T,2.297034502029419,D,448
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,448,D,2.346658706665039,T,444
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,452,I,3.4562010765075684,I,452
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,458,K,2.8986783027648926,E,463
+fold_h_atp_tub_seed1_model_0,kinesin B,SG,459,C,2.8299708366394043,C,459
+fold_h_atp_tub_seed1_model_0,kinesin B,CG,462,L,3.3915581703186035,E,463
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,463,E,2.7778964042663574,K,458
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,465,Q,3.1131224632263184,L,466
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,466,L,2.956859350204468,L,466
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,469,K,2.776623487472534,E,470
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,470,E,2.828545570373535,K,469
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,472,E,2.6627914905548096,K,473
+fold_h_atp_tub_seed1_model_0,kinesin B,OE2,473,K,2.6028313636779785,E,472
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,476,I,3.171013355255127,L,480
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,480,L,3.079900026321411,Q,483
+fold_h_atp_tub_seed1_model_0,kinesin B,O,483,Q,3.0414021015167236,L,480
+fold_h_atp_tub_seed1_model_0,kinesin B,NE2,484,Q,3.325914144515991,Q,483
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,487,I,2.9861788749694824,K,490
+fold_h_atp_tub_seed1_model_0,kinesin B,OD2,490,K,2.5752620697021484,D,491
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,491,D,2.5212717056274414,K,490
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,493,E,3.44839859008789,I,494
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,497,L,2.8906216621398926,I,501
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,501,I,2.934314727783203,L,497
+fold_h_atp_tub_seed1_model_0,kinesin B,CB,504,S,3.16332745552063,S,504
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,508,N,3.387312412261963,I,507
+fold_h_atp_tub_seed1_model_0,kinesin B,CE2,510,L,3.43734073638916,Y,511
+fold_h_atp_tub_seed1_model_0,kinesin B,O,511,Y,3.3862593173980713,L,510
+fold_h_atp_tub_seed1_model_0,kinesin B,OG,514,S,2.796589612960815,S,514
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,518,N,2.172536611557007,N,518
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,521,L,3.0911104679107666,N,518
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,522,N,3.23193883895874,L,521
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,531,A,3.3904988765716553,L,532
+fold_h_atp_tub_seed1_model_0,kinesin B,O,532,L,3.4057912826538086,A,531
+fold_h_atp_tub_seed1_model_0,kinesin B,OG,535,S,2.8518059253692627,S,535
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,539,A,2.714545488357544,Q,542
+fold_h_atp_tub_seed1_model_0,kinesin B,O,542,Q,2.726140260696411,A,539
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,546,I,3.331946849822998,I,546
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,549,L,3.074075937271118,N,550
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,550,N,3.1508708000183105,L,549
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,552,E,2.7956008911132812,K,557
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,553,N,2.272268533706665,N,553
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,556,I,3.241206169128418,I,556
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,557,K,2.6881024837493896,E,552
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,560,L,3.3551764488220215,L,560
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,563,L,3.2912817001342773,I,567
+fold_h_atp_tub_seed1_model_0,kinesin B,O,566,R,3.1702568531036377,L,578
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,567,I,3.3359241485595703,L,563
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,575,I,3.169877767562866,I,575
+fold_h_atp_tub_seed1_model_0,kinesin B,NH1,578,L,3.2285566329956055,R,566
+fold_k401_atp_tub_seed1_model_0,ATP,O2G,94,T,2.4374871253967285,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O3B,95,S,2.806600332260132,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O2B,96,S,3.29720401763916,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O2B,97,G,3.1137118339538574,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O3G,98,K,2.9161436557769775,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O1B,99,T,2.7895143032073975,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O2A,100,H,2.9845962524414062,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O1A,205,N,2.958266496658325,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O2G,208,S,2.7913260459899902,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O1G,209,S,2.7207634449005127,,1
+fold_k401_atp_tub_seed1_model_0,ATP,O3G,241,G,2.9005379676818848,,1
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,OE2,244,K,2.560426950454712,E,420
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,O,245,V,3.1075081825256348,G,412
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,NZ,250,A,3.409220933914185,K,112
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,NZ,251,E,3.4453158378601074,K,112
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,O,259,K,3.223480224609375,G,410
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,CG1,262,N,3.4584624767303467,V,409
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,CG1,263,K,3.4183528423309326,V,409
+fold_k401_atp_tub_seed1_model_0,alpha-tubulin,OE2,266,S,2.612457513809204,E,415
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,CG,148,K,3.006138324737549,E,157
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,OE1,159,N,3.0405116081237793,E,157
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,OE2,163,H,2.8384571075439453,E,410
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,OE1,164,E,2.686645746231079,E,410
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,OE1,282,H,2.7174038887023926,Q,424
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,OD2,286,R,2.5308802127838135,D,417
+fold_k401_atp_tub_seed1_model_0,beta-tubulin,CD,287,D,3.2496230602264404,R,262
+fold_k401_atp_tub_seed1_model_0,kinesin B,OE1,166,K,2.5941569805145264,E,346
+fold_k401_atp_tub_seed1_model_0,kinesin B,NZ,167,N,3.2108778953552246,K,349
+fold_k401_atp_tub_seed1_model_0,kinesin B,CD1,345,A,3.4633238315582275,W,348
+fold_k401_atp_tub_seed1_model_0,kinesin B,CD1,348,W,3.368378162384033,Y,352
+fold_k401_atp_tub_seed1_model_0,kinesin B,CZ3,352,Y,3.383876085281372,W,348
+fold_k401_atp_tub_seed1_model_0,kinesin B,ND2,355,E,2.118377208709717,N,359
+fold_k401_atp_tub_seed1_model_0,kinesin B,OE2,359,N,2.1266520023345947,E,355
+fold_k401_atp_tub_seed1_model_0,kinesin B,OD1,362,L,2.901210069656372,N,359
+fold_k401_atp_tub_seed1_model_0,kinesin B,CA,363,K,2.898369312286377,S,397
+fold_k401_atp_tub_seed1_model_0,kinesin B,CD1,366,V,3.02547836303711,L,393
+fold_k401_atp_tub_seed1_model_0,kinesin B,CD1,369,L,3.478980302810669,L,373
+fold_k401_atp_tub_seed1_model_0,kinesin B,CD1,370,E,2.5869014263153076,L,393
+fold_k401_atp_tub_seed1_model_0,kinesin B,NH2,372,E,2.8415660858154297,R,377
+fold_k401_atp_tub_seed1_model_0,kinesin B,CD1,373,L,2.7298479080200195,L,373
+fold_k401_atp_tub_seed1_model_0,kinesin B,OE2,377,R,2.8014917373657227,E,372
+fold_k401_atp_tub_seed1_model_0,kinesin B,NH2,387,Q,3.4363529682159424,R,377
+fold_k401_atp_tub_seed1_model_0,kinesin B,NH2,388,I,2.859236717224121,R,377
+fold_k401_atp_tub_seed1_model_0,kinesin B,OE1,390,M,3.4483542442321777,E,370
+fold_k401_atp_tub_seed1_model_0,kinesin B,CG1,393,L,2.5268359184265137,V,366
+fold_k401_atp_tub_seed1_model_0,kinesin B,NZ,396,A,3.4055051803588867,K,363
+fold_k401_atp_tub_seed1_model_0,kinesin B,NZ,397,S,2.766642808914185,K,363

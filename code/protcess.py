@@ -38,10 +38,6 @@ atom_dict = {
     "O3'": "Oxygen 3 prime", "O4'": "Oxygen 4 prime", "O5'": "Oxygen 5 prime"
 }
 
-
- 
-# Assumes the dictionaries aa_dict and atom_dict are defined elsewhere in the code
-
 def three_to_one(three_letter_code):
     return aa_dict.get(three_letter_code.strip().upper(), '?')
 
@@ -67,7 +63,7 @@ def log_interactions(file_path, threshold=5.0):
         for mg_chain, mg_resi, mg_resn, mg_name, mg_index in stored.mg_list:
             distance = cmd.get_distance(f"index {index}", f"index {mg_index}")
             if distance <= threshold:  # Only log interactions within threshold
-                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, mg_name, mg_resn, mg_chain, distance))
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, mg_name, mg_resn, mg_chain, mg_resi, distance))
 
         # Interaction with chains C and D
         cmd.select("interaction_near", f"(chain C within {threshold} of index {index}) or (chain D within {threshold} of index {index})")
@@ -76,7 +72,7 @@ def log_interactions(file_path, threshold=5.0):
         for inter_chain, inter_resi, inter_resn, inter_name, inter_index in stored.interaction_list:
             distance = cmd.get_distance(f"index {index}", f"index {inter_index}")
             if distance <= threshold:  # Only log interactions within threshold
-                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, inter_name, inter_resn, inter_chain, distance))
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, inter_name, inter_resn, inter_chain, inter_resi, distance))
         
         # Interaction with ATP
         cmd.select("atp_near", f"(resn ATP within {threshold} of index {index})")
@@ -85,7 +81,7 @@ def log_interactions(file_path, threshold=5.0):
         for atp_chain, atp_resi, atp_resn, atp_name, atp_index in stored.atp_list:
             distance = cmd.get_distance(f"index {index}", f"index {atp_index}")
             if distance <= threshold:  # Only log interactions within threshold
-                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, atp_name, atp_resn, atp_chain, distance))
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, atp_name, atp_resn, atp_chain, atp_resi, distance))
 
         # Interaction with ADP
         cmd.select("adp_near", f"(resn ADP within {threshold} of index {index})")
@@ -94,7 +90,7 @@ def log_interactions(file_path, threshold=5.0):
         for adp_chain, adp_resi, adp_resn, adp_name, adp_index in stored.adp_list:
             distance = cmd.get_distance(f"index {index}", f"index {adp_index}")
             if distance <= threshold:  # Only log interactions within threshold
-                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, adp_name, adp_resn, adp_chain, distance))
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, adp_name, adp_resn, adp_chain, adp_resi, distance))
 
         # Interaction between chain A and chain B
         cmd.select("ab_near", f"(chain B within {threshold} of index {index})" if chain == 'A' else f"(chain A within {threshold} of index {index})")
@@ -103,7 +99,7 @@ def log_interactions(file_path, threshold=5.0):
         for ab_chain, ab_resi, ab_resn, ab_name, ab_index in stored.ab_list:
             distance = cmd.get_distance(f"index {index}", f"index {ab_index}")
             if distance <= threshold:  # Only log interactions within threshold
-                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, ab_name, ab_resn, ab_chain, distance))
+                interactions.add((os.path.splitext(os.path.basename(file_path))[0], chain, resi, resn, name, ab_name, ab_resn, ab_chain, ab_resi, distance))
 
     cmd.delete("all")  # Clear all selections to prepare for the next file
     return list(interactions)  # Convert set to list
@@ -116,21 +112,22 @@ def process_folder(folder_path, threshold=5.0):
         all_interactions.extend(log_interactions(file_path, threshold))
 
     # Create a DataFrame from the interactions
-    df = pd.DataFrame(all_interactions, columns=["file", "chain", "resi", "resn", "atom_name", "interacting_atom", "interacting_resn", "interacting_chain", "distance (angstroms)"])
+    df = pd.DataFrame(all_interactions, columns=["file", "chain", "resi", "resn", "atom_name", "interacting_atom", "interacting_resn", "interacting_chain", "interacting_resinumber", "distance (angstroms)"])
 
     # Add columns for amino acid single-letter code and complete atom names
     df['residue_one_letter'] = df['resn'].apply(three_to_one)
     df['full_atom_name'] = df['atom_name'].apply(get_full_atom_name)
     df['interacting_full_atom_name'] = df['interacting_atom'].apply(get_full_atom_name)
+    df['interactingresi_oneletter'] = df['interacting_resn'].apply(three_to_one)
 
     # Keep only the closest interaction for each residue pair
-    # df = df.loc[df.groupby(['file', 'chain', 'resi', 'resn', 'interacting_chain', 'interacting_resn'])['distance (angstroms)'].idxmin()]
+    # df = df.loc[df.groupby(['file', 'chain', 'resi', 'resn', 'interacting_chain', 'interacting_resn', 'interacting_resinumber'])['distance (angstroms)'].idxmin()]
 
     # Save the DataFrame to a CSV file
     df.to_csv(os.path.join(folder_path, "interactions_all_files.csv"), index=False)
     print(f"DataFrame has been saved to interactions_all_files.csv")
 
-folder_path = "/Users/jazzeruncal/git/Jazzer_surf/3d_predictions/same_seed"
+folder_path = "/Users/jazzeruncal/git/Jazzer_surf/3d_predictions/same_seed/Seed_1"
 
 # Run the function for a folder with a threshold
 process_folder(folder_path, threshold=3.5)  # Replace with the path to your folder containing PDB or CIF files

@@ -1,1 +1,19 @@
-
+file,interacting_chain,interacting_atom,residue_number,amino_acid,distance (angstroms)
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE1,148,K,2.959439992904663
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE1,159,N,3.445338010787964
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE2,163,H,2.687521457672119
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OG,164,E,2.955756902694702
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE2,168,R,3.2466304302215576
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE2,280,K,2.917971611022949
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE1,282,H,2.7463200092315674
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OD2,286,R,2.4092843532562256
+fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,CD,287,D,3.2657229900360107
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,OE2,244,K,2.45444393157959
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,O,245,V,3.171671152114868
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,NZ,250,A,3.486215353012085
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,NZ,251,E,2.933490514755249
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,O,259,K,3.3760435581207275
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,CG1,262,N,3.4887471199035645
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,CG1,263,K,3.389737367630005
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,OE2,266,S,2.518489122390747
+fold_k401monomer_atp_tub_seed1_model_0,kinesin B,CG,270,N,3.415260076522827
