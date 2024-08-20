@@ -1,19 +1,107 @@
 file,interacting_chain,interacting_atom,residue_number,amino_acid,distance (angstroms)
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE1,148,K,2.959439992904663
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE1,159,N,3.445338010787964
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE2,163,H,2.687521457672119
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OG,164,E,2.955756902694702
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE2,168,R,3.2466304302215576
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE2,280,K,2.917971611022949
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OE1,282,H,2.7463200092315674
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,OD2,286,R,2.4092843532562256
-fold_k401monomer_atp_tub_seed1_model_0,alpha-tubulin,CD,287,D,3.2657229900360107
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,OE2,244,K,2.45444393157959
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,O,245,V,3.171671152114868
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,NZ,250,A,3.486215353012085
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,NZ,251,E,2.933490514755249
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,O,259,K,3.3760435581207275
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,CG1,262,N,3.4887471199035645
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,CG1,263,K,3.389737367630005
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,OE2,266,S,2.518489122390747
-fold_k401monomer_atp_tub_seed1_model_0,kinesin B,CG,270,N,3.415260076522827
+fold_h_atp_tub_seed1_model_0,ATP,O1G,87,T,2.7136809825897217
+fold_h_atp_tub_seed1_model_0,ATP,O3B,88,G,2.823422431945801
+fold_h_atp_tub_seed1_model_0,ATP,O1B,89,S,3.3753457069396973
+fold_h_atp_tub_seed1_model_0,ATP,O1B,90,G,2.964850425720215
+fold_h_atp_tub_seed1_model_0,ATP,O1B,91,K,2.674063920974731
+fold_h_atp_tub_seed1_model_0,ATP,O2B,92,T,2.672137975692749
+fold_h_atp_tub_seed1_model_0,ATP,O1A,93,F,2.6421751976013184
+fold_h_atp_tub_seed1_model_0,ATP,O1G,201,N,3.039212703704834
+fold_h_atp_tub_seed1_model_0,ATP,O1G,204,S,3.0076818466186523
+fold_h_atp_tub_seed1_model_0,ATP,O3G,205,S,2.9404726028442383
+fold_h_atp_tub_seed1_model_0,ATP,O2G,237,G,2.8074371814727783
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,238,S,2.8748793601989746
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,240,K,2.4869065284729004
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,O,241,I,2.9714810848236084
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,O,255,K,3.2021288871765137
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,CG1,258,N,3.430851459503174
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,CG1,259,K,3.369836807250977
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE2,262,S,2.512510299682617
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,CG,266,N,3.2866287231445312
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,314,A,3.040358543395996
+fold_h_atp_tub_seed1_model_0,alpha-tubulin,OE1,321,R,2.6851649284362793
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,144,R,2.768033504486084
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,157,K,3.047783851623535
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,158,V,2.7401652336120605
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CG,159,R,3.184271812438965
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OG,160,E,3.432516574859619
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CA,275,K,3.420228958129883
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,277,T,3.3995347023010254
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE1,278,H,2.7170002460479736
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OD2,282,R,2.4272496700286865
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CD,283,D,3.05643630027771
+fold_h_atp_tub_seed1_model_0,beta-tubulin,OE2,285,K,3.496941328048706
+fold_h_atp_tub_seed1_model_0,beta-tubulin,NH2,494,I,2.975874185562134
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CD,498,N,2.3815529346466064
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CZ,505,N,2.46383285522461
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CE1,508,N,3.2913224697113037
+fold_h_atp_tub_seed1_model_0,beta-tubulin,CZ2,509,S,2.656165599822998
+fold_h_atp_tub_seed1_model_0,beta-tubulin,O,512,Q,2.8011043071746826
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,341,A,3.2464489936828613
+fold_h_atp_tub_seed1_model_0,kinesin B,O,344,L,3.1811676025390625
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,354,E,2.7876062393188477
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,358,L,3.2889037132263184
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,359,K,2.5041942596435547
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,361,Y,2.093987464904785
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,362,I,3.2933621406555176
+fold_h_atp_tub_seed1_model_0,kinesin B,O,365,L,2.98205304145813
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,366,E,1.9849523305892944
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,367,T,3.1734635829925537
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,368,V,2.9161553382873535
+fold_h_atp_tub_seed1_model_0,kinesin B,CB,369,S,3.067169666290283
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,370,G,2.5092685222625732
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,371,V,2.9051871299743652
+fold_h_atp_tub_seed1_model_0,kinesin B,CG,372,T,1.6073085069656372
+fold_h_atp_tub_seed1_model_0,kinesin B,CE2,373,V,3.0889830589294434
+fold_h_atp_tub_seed1_model_0,kinesin B,O,374,S,2.8501088619232178
+fold_h_atp_tub_seed1_model_0,kinesin B,OE2,375,N,2.283984899520874
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,376,L,2.154186248779297
+fold_h_atp_tub_seed1_model_0,kinesin B,OD2,444,T,2.297034502029419
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,448,D,2.346658706665039
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,452,I,3.4562010765075684
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,458,K,2.8986783027648926
+fold_h_atp_tub_seed1_model_0,kinesin B,SG,459,C,2.8299708366394043
+fold_h_atp_tub_seed1_model_0,kinesin B,CG,462,L,3.3915581703186035
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,463,E,2.7778964042663574
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,465,Q,3.1131224632263184
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,466,L,2.956859350204468
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,469,K,2.776623487472534
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,470,E,2.828545570373535
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,472,E,2.6627914905548096
+fold_h_atp_tub_seed1_model_0,kinesin B,OE2,473,K,2.6028313636779785
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,476,I,3.171013355255127
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,480,L,3.079900026321411
+fold_h_atp_tub_seed1_model_0,kinesin B,O,483,Q,3.0414021015167236
+fold_h_atp_tub_seed1_model_0,kinesin B,NE2,484,Q,3.325914144515991
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,487,I,2.9861788749694824
+fold_h_atp_tub_seed1_model_0,kinesin B,OD2,490,K,2.5752620697021484
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,491,D,2.5212717056274414
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,493,E,3.44839859008789
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,497,L,2.8906216621398926
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,501,I,2.934314727783203
+fold_h_atp_tub_seed1_model_0,kinesin B,CB,504,S,3.16332745552063
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,508,N,3.387312412261963
+fold_h_atp_tub_seed1_model_0,kinesin B,CE2,510,L,3.43734073638916
+fold_h_atp_tub_seed1_model_0,kinesin B,O,511,Y,3.3862593173980713
+fold_h_atp_tub_seed1_model_0,kinesin B,OG,514,S,2.796589612960815
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,518,N,2.172536611557007
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,521,L,3.0911104679107666
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,522,N,3.23193883895874
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,531,A,3.3904988765716553
+fold_h_atp_tub_seed1_model_0,kinesin B,O,532,L,3.4057912826538086
+fold_h_atp_tub_seed1_model_0,kinesin B,OG,535,S,2.8518059253692627
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,539,A,2.714545488357544
+fold_h_atp_tub_seed1_model_0,kinesin B,O,542,Q,2.726140260696411
+fold_h_atp_tub_seed1_model_0,kinesin B,CG1,546,I,3.331946849822998
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,549,L,3.074075937271118
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,550,N,3.1508708000183105
+fold_h_atp_tub_seed1_model_0,kinesin B,NZ,552,E,2.7956008911132812
+fold_h_atp_tub_seed1_model_0,kinesin B,OD1,553,N,2.272268533706665
+fold_h_atp_tub_seed1_model_0,kinesin B,CG2,556,I,3.241206169128418
+fold_h_atp_tub_seed1_model_0,kinesin B,OE1,557,K,2.6881024837493896
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,560,L,3.3551764488220215
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,563,L,3.2912817001342773
+fold_h_atp_tub_seed1_model_0,kinesin B,O,566,R,3.1702568531036377
+fold_h_atp_tub_seed1_model_0,kinesin B,CD2,567,I,3.3359241485595703
+fold_h_atp_tub_seed1_model_0,kinesin B,CD1,575,I,3.169877767562866
+fold_h_atp_tub_seed1_model_0,kinesin B,NH1,578,L,3.2285566329956055
